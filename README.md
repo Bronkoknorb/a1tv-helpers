@@ -50,7 +50,7 @@ RESTful JSON API).
 First you will need to create a *Network* within the configuration of Tvheadend:
 Open the Web UI of Tvheadend (typically `http://localhost:9981`) and go to
 *Configuration -> DVB Inputs -> Networks*. Click *Add* and select *IPTV Network*
-as type. Set the *Network name* to *A1 TV*. Make sure to also set a value for
+as type. Set the *Network name* to "A1 TV". Make sure to also set a value for
 *Max Input Streams*: It's the number of streams that A1 allows you to watch in
 parallel (typically just 1). For the other settings the default values should be
 okay. After creating the new *Network* you will need to find out its unique
@@ -60,7 +60,7 @@ you'll have to look it up in the file system:
     ls /home/hts/.hts/tvheadend/input/iptv/networks/
     
 This assumes that your Tvheadend runs as the user *hts* (default in Ubuntu). The
-UUID is an arbitry string of letters and numbers,
+UUID is an arbitrary string of letters and numbers,
 e.g. "b46f6b35d6823d227644add3ee071eee".
 
 Configuration: Please adapt the following configuration values within
@@ -114,7 +114,7 @@ create_channummap.rb
 --------------------
 
 This script will automatically create a `channummap.json` file based on the
-channel numbers as defined by m3u channel list offered by A1. The resulting
+channel numbers as defined by an m3u channel list offered by A1. The resulting
 file can be used as input for the `tvheadend_channelnumbers.rb` script described
 above. It can be used as is, or can be manually adapted to change the channel
 numbers.
@@ -187,3 +187,25 @@ Configuration:
 Usage:
 
     ruby tvheadend_xmltv.rb
+
+After the script has executed succesfully, each channel should be associated
+with an EPG source. Open *Configuration -> Channel / EPG -> Channels* to verify
+that. The next time the grabber is ruby by Tvheadend the EPG data should get
+populated. :-) (Note: Of course you can again force a run of the grabber with
+the trick described above.)
+
+
+Questions / Contributions
+-------------------------
+
+If you have problems or questions then please
+[open an Issue on github](https://github.com/Bronkoknorb/a1tv-helpers/issues).
+
+Feel free to fork the repository and create pull requests for improvements and
+additional scripts.
+
+Author
+------
+
+Hermann Czedik-Eysenberg
+git-dev@hermann.czedik.net
