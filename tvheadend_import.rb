@@ -6,7 +6,7 @@ require 'rest-client'
 
 require_relative 'config.rb'
 
-# Note: to debug RESTful calls: RESTCLIENT_LOG=stdout ruby channels_tvheadend.rb
+# Note: to debug RESTful calls use: RESTCLIENT_LOG=stdout ruby tvheadend_import.rb
 
 channum = nil
 name = nil
