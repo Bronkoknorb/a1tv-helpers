@@ -15,14 +15,11 @@ url = nil
 
 open(A1TV_SOURCE_M3U_FILE_URL) {|f|
   f.each_line { |line|
-    # mythtv is not very tolerant with it's m3u files, it doesn't like empty lines
-    next if line.strip.empty?
-    
+
     if /^#EXTINF:.*tvg-num="([^"]*)".*,(.*)/ =~ line
       channum = $1
       name = $2
       xmltv_id = CHANNEL_TABLE[name]
-      
     elsif /^(rtp:\/\/.*)/ =~ line
       url = $1
       puts "Configuring: #{channum} #{name} #{xmltv_id} #{url}"
@@ -33,7 +30,6 @@ open(A1TV_SOURCE_M3U_FILE_URL) {|f|
       # create a Mux using the RESTful JSON API
       RestClient.post TVHEADEND_BASE_URL+"/api/mpegts/network/mux_create", :uuid => TVHEADEND_NETWORK_UUID,
         :conf => {"enabled"=>true, "iptv_url"=>url, "iptv_muxname"=>name}.to_json
-
     end
   }
 }
