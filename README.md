@@ -190,9 +190,9 @@ Usage:
 
 After the script has executed succesfully, each channel should be associated
 with an EPG source. Open *Configuration -> Channel / EPG -> Channels* to verify
-that. The next time the grabber is ruby by Tvheadend the EPG data should get
-populated. :-) (Note: Of course you can again force a run of the grabber with
-the trick described above.)
+that. The next time the grabber is run by Tvheadend the EPG data should get
+populated. (Note: Of course you can again force a run of the grabber with
+the trick described above.) :-)
 
 
 Questions / Contributions
@@ -207,5 +207,5 @@ additional scripts.
 Author
 ------
 
-Hermann Czedik-Eysenberg
+Hermann Czedik-Eysenberg  
 git-dev@hermann.czedik.net
