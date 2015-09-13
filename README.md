@@ -21,6 +21,6 @@ TBD
 tvheadend_import.rb
 -------------------
 
-This will import A1 TV channels as "Muxes" into Tvheadend.
+This will import A1 TV channels as "Muxes" into Tvheadend (using its RESTful JSON API).
 
 TBD
