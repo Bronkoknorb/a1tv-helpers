@@ -17,8 +17,6 @@ TVHEADEND_BASE_URL = "http://localhost:9981"
 TVHEADEND_NETWORK_UUID = "b46f6b35d6823d227644add3ee071eee"
 
 # Mapping of channel names to XMLTV channel ids.
-# Currently only used by create_mythtv_m3u.rb,
-# not needed for tvheadend_import.rb
 # (Source for xmltv.se XMLTV Channel IDs:
 #  http://xmltv.xmltv.se/channels-Austria.xml.gz )
 CHANNEL_TABLE = {
