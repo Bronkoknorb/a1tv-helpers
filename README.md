@@ -173,7 +173,7 @@ minutes for the grabber to finish.
 
 If everything worked out fine, you should then be able to associate XMLTV IDs
 with the channels. Go to *Configuration -> Channel / EPG -> Channels* select one
-of the channels, click *Edit* and chose one of the available sources in the
+of the channels, click *Edit* and choose one of the available sources in the
 *EPG source* drop down menu.
 
 It's boring to manually set this for every channel and this is where the script
