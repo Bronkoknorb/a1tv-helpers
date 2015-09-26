@@ -19,6 +19,15 @@ Install ruby and required libraries:
     sudo apt-get install ruby ruby-dev
     sudo gem install rest-client
 
+Compatibility
+-------------
+
+These scripts have been tested with the following versions:
+
+* MythTV version 0.27
+* Tvheadend version 4.0.5
+* Kodi version 15
+
 
 create_mythtv_m3u.rb
 --------------------
