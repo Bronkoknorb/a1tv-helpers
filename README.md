@@ -57,7 +57,7 @@ okay. After creating the new *Network* you will need to find out its unique
 identifier (UUID). As this does not seem to be possible within the Web UI,
 you'll have to look it up in the file system:
 
-    ls /home/hts/.hts/tvheadend/input/iptv/networks/
+    sudo ls /home/hts/.hts/tvheadend/input/iptv/networks/
     
 This assumes that your Tvheadend runs as the user *hts* (default in Ubuntu). The
 UUID is an arbitrary string of letters and numbers,
