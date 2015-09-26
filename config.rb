@@ -25,6 +25,7 @@ CHANNEL_TABLE = {
   "ORFeins HD" => "orf1.orf.at",
   "ORF 2 W" => "orf2.orf.at",
   "ATV" => "atv.at",
+  "ATVplus" => "atv.at",
   "PULS4" => "puls4.at",
   "PULS 4" => "puls4.at",
   "ServusTV" => "servustv.com",
