@@ -12,7 +12,7 @@ Source: https://github.com/Bronkoknorb/a1tv-helpers
 Prerequisites
 -------------
 
-This README assumes you are using Debian/Ubuntu or some derivative like OSCM (formerly Raspbmc).
+This README assumes you are using Debian/Ubuntu or some derivative like OSMC (formerly Raspbmc).
 
 Install ruby and required libraries:
 
