@@ -3,9 +3,7 @@ a1tv-helpers
 
 This is a collection of scripts for importing channels of Austrian IPTV
 [A1 TV](http://www.a1.net/tv/) into [MythTV](https://www.mythtv.org/) and
-[Tvheadend](http://tvheadend.org/) (for use as a
-[PVR backend within Kodi](http://kodi.wiki/view/Tvheadend_PVR), which was
-formerly known as XBMC).
+[Tvheadend](http://tvheadend.org/). Note: Kodi (formerly known as XBMC) and is also used as the media center software within [OSMC](http://osmc.tv/).
 
 Source: https://github.com/Bronkoknorb/a1tv-helpers
 
