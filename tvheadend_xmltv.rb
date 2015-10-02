@@ -4,7 +4,7 @@ require 'rubygems'
 require 'rest-client'
 
 require_relative 'config.rb'
-require_relative 'tvheadend_common'
+require_relative 'tvheadend_common.rb'
 
 tvheadend_channels_each { |channel|
   name = channel["name"]
