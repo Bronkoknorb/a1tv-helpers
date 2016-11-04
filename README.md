@@ -6,7 +6,10 @@ This is a collection of scripts for importing channels of Austrian IPTV
 [Tvheadend](http://tvheadend.org/). Tvheadend can be used as a [PVR backend for
 Kodi](http://kodi.wiki/view/Tvheadend_PVR). [Kodi](http://kodi.tv/) (formerly
 known as XBMC) is also used as the media center software within
-[OSMC](http://osmc.tv/) (the successor of Raspbmc).
+[OSMC](http://osmc.tv/) (the successor of Raspbmc),
+[LibreELEC](https://libreelec.tv/), [OpenELEC](http://openelec.tv/),
+[XBian](http://www.xbian.org/) and more. All of them can be run on a
+[Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi).
 
 Source: https://github.com/Bronkoknorb/a1tv-helpers
 
@@ -199,7 +202,7 @@ Usage:
 
     ruby tvheadend_xmltv.rb
 
-After the script has executed succesfully, each channel should be associated
+After the script has executed successfully, each channel should be associated
 with an EPG source. Open *Configuration -> Channel / EPG -> Channels* to verify
 that. The next time the grabber is run by Tvheadend the EPG data should get
 populated. (Note: Of course you can again force a run of the grabber with
