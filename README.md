@@ -35,11 +35,11 @@ These scripts have been tested with the following versions:
 Overview
 --------
 
-* [create_mythtv_m3u.rb](#create_mythtv_m3urb) - Convert A1 TV channel list to an m3u file compatible with MythTV
-* [tvheadend_import.rb](#tvheadend_importrb) - Import A1 TV channels into Tvheadend (for viewing them in Kodi)
-* [tvheadend_channelnumbers.rb](#tvheadend_channelnumbersrb) - Setup channel numbers in Tvheadend (and Kodi)
-* [create_channummap.rb](#create_channummaprb) - Create channel numbers for A1 TV channels
-* [tvheadend_xmltv.rb](#tvheadend_xmltvrb) - Setup XMLTV IDs with channels so that EPG data is available in Tvheadend (and Kodi)
+* [`create_mythtv_m3u.rb`](#create_mythtv_m3urb) - Convert A1 TV channel list to an m3u file compatible with MythTV
+* [`tvheadend_import.rb`](#tvheadend_importrb) - Import A1 TV channels into Tvheadend (for viewing them in Kodi)
+* [`tvheadend_channelnumbers.rb](#tvheadend_channelnumbersrb) - Setup channel numbers in Tvheadend (and Kodi)
+* [`create_channummap.rb`](#create_channummaprb) - Create channel numbers for A1 TV channels
+* [`tvheadend_xmltv.rb`](#tvheadend_xmltvrb) - Setup XMLTV IDs with channels so that EPG data is available in Tvheadend (and Kodi)
 
 create_mythtv_m3u.rb
 --------------------
@@ -118,7 +118,7 @@ tvheadend_channelnumbers.rb
 This script will set up the channel numbers in Tvheadend by using a given
 `channummap.json` file that maps channel names (resp. Mux names) to channel
 numbers. The file `channummap_example.json` contains a sample mapping.
-The script `create_channummap.rb` (as described below) can be used to
+The script [`create_channummap.rb`](#create_channummaprb) (as described below) can be used to
 automatically create such a `channummap.json` file for A1 TV.
 
 Configuration:
@@ -136,7 +136,7 @@ create_channummap.rb
 
 This script will automatically create a `channummap.json` file based on the
 channel numbers as defined by an m3u channel list offered by A1. The resulting
-file can be used as input for the `tvheadend_channelnumbers.rb` script described
+file can be used as input for the [`tvheadend_channelnumbers.rb`](#tvheadend_channelnumbersrb) script described
 above. It can be used as is, or can be manually adapted to change the channel
 numbers.
 
