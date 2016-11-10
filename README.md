@@ -64,7 +64,7 @@ Usage:
 
     ruby create_mythtv_m3u.rb > channels.m3u
 
-You can then import the generated m3u file using the MythTV Backend Setup.
+You can import the generated m3u file using the MythTV Backend Setup.
 
 
 tvheadend_import.rb
@@ -117,7 +117,7 @@ For each Mux with an *OK* status, there should now also be a *Service* under
 service to a *Channel*:
 
 Go to *Configuration -> Channel / EPG* and click on
-*Map Services*. The channel list should then fill up automatically with all
+*Map Services*. Now the channel list should fill up automatically with all
 A1 TV channels.
 
 For watching these channels in Kodi (XBMC) please refer to:
@@ -148,7 +148,8 @@ create_channummap.rb
 
 This script will automatically create a `channummap.json` file based on the
 channel numbers as defined by an m3u channel list offered by A1. The resulting
-file can be used as input for the [`tvheadend_channelnumbers.rb`](#tvheadend_channelnumbersrb) script described
+file can be used as input for the
+[`tvheadend_channelnumbers.rb`](#tvheadend_channelnumbersrb) script described
 above. It can be used as is, or can be manually adapted to change the channel
 numbers.
 
@@ -188,14 +189,14 @@ Then configure the grabber:
 You will be asked some questions: Set the *Root URL for grabbing data* to
 *http://xmltv.xmltv.se/channels-Austria.xml.gz* (for Austrian channels). The
 *Directory to store the cache in* can stay on the default
-(*/home/hts/.xmltv/cache*). Then select *all* channels.
+(*/home/hts/.xmltv/cache*). Simply select *all* channels.
 
 Afterwards the grabber needs to be activated in Tvheadend. If you just installed
 the XMLTV utilities, you will have to restart Tvheadend:
 
     sudo service tvheadend restart
 
-Then go to the Web UI and open *Configuration -> Channel / EPG -> EPG Grabber*:
+Next, go to the Web UI and open *Configuration -> Channel / EPG -> EPG Grabber*:
 Under *Internal Grabber* select *XMLTV: Sweden (TVZon)* and save the
 configuration.
 You will then need to ensure that Tvheadend runs the grabber at least once. The
