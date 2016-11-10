@@ -35,11 +35,16 @@ These scripts have been tested with the following versions:
 Overview
 --------
 
-* [`create_mythtv_m3u.rb`](#create_mythtv_m3urb) - Convert A1 TV channel list to an m3u file compatible with MythTV
-* [`tvheadend_import.rb`](#tvheadend_importrb) - Import A1 TV channels into Tvheadend (for viewing them in Kodi)
-* [`tvheadend_channelnumbers.rb`](#tvheadend_channelnumbersrb) - Setup channel numbers in Tvheadend (and Kodi)
-* [`create_channummap.rb`](#create_channummaprb) - Create default channel numbers for A1 TV channels
-* [`tvheadend_xmltv.rb`](#tvheadend_xmltvrb) - Setup XMLTV IDs with channels so that EPG data is available in Tvheadend (and Kodi)
+* [`create_mythtv_m3u.rb`](#create_mythtv_m3urb) - Convert A1 TV channel list to
+  an m3u file compatible with MythTV
+* [`tvheadend_import.rb`](#tvheadend_importrb) - Import A1 TV channels into
+  Tvheadend (for viewing them in Kodi)
+* [`tvheadend_channelnumbers.rb`](#tvheadend_channelnumbersrb) - Setup channel
+  numbers in Tvheadend (and Kodi)
+* [`create_channummap.rb`](#create_channummaprb) - Create default channel numbers
+  for A1 TV channels
+* [`tvheadend_xmltv.rb`](#tvheadend_xmltvrb) - Setup XMLTV IDs with channels so
+  that EPG data is available in Tvheadend (and Kodi)
 
 create_mythtv_m3u.rb
 --------------------
@@ -74,7 +79,9 @@ Open the Web UI of Tvheadend (typically `http://localhost:9981`) and go to
 as type. Set the *Network name* to "A1 TV". Make sure to also set a value for
 *Max Input Streams*: It's the number of streams that A1 allows you to watch in
 parallel (typically just 1). For the other settings the default values should be
-okay. After creating the new *Network* you will need to find out its unique
+okay.
+
+After creating the new *Network* you will need to find out its unique
 identifier (UUID). As this does not seem to be possible within the Web UI,
 you'll have to look it up in the file system:
 
@@ -99,12 +106,17 @@ After the script has executed successfully, go to the configuration Web UI of
 Tvheadend again: *Configuration -> DVB Inputs -> Muxes* should contain a *Mux*
 for each channel. Tvheadend now needs to gather data about each Mux. You will
 have to wait until the *Scan Result* is *OK* and the *Scan Status* is *IDLE* for
-every Mux. This will take quite some time. If some Muxes get a *Scan Result* of
-*FAIL*, TVHeadend couldn't successfully open the stream. Then you can try to
-force a retry by setting the *Scan Status* to *PEND* (pending) again.
+every Mux. This will take quite some time.
+
+If some Muxes get a *Scan Result* of *FAIL*, TVHeadend couldn't successfully
+open the stream. In that case you can try to force a retry by setting the
+*Scan Status* to *PEND* (pending) again.
+
 For each Mux with an *OK* status, there should now also be a *Service* under
 *Services*. That is still not enough :-) - you will then need to map each
-service to a *Channel*: Go to *Configuration -> Channel / EPG* and click on
+service to a *Channel*:
+
+Go to *Configuration -> Channel / EPG* and click on
 *Map Services*. The channel list should then fill up automatically with all
 A1 TV channels.
 
