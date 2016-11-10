@@ -18,7 +18,6 @@ channum_map = JSON.parse(channum_map_filecontent)
 
 tvheadend_channels_each { |channel|
 
-  channel_uuid = channel["uuid"]
   channel_name = channel["name"]
 
   channum = channum_map[channel_name]
@@ -42,4 +41,3 @@ tvheadend_channels_each { |channel|
   tvheadend_save_channel(channel)
 
 }
-

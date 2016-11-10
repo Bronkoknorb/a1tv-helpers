@@ -45,5 +45,6 @@ def tvheadend_get_mux_name_for_channel(channel)
   
   mux_name = service_param_mux["value"]
 
-end
+  return mux_name
 
+end
