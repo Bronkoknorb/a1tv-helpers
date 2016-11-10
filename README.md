@@ -29,8 +29,8 @@ Compatibility
 These scripts have been tested with the following versions:
 
 * MythTV version 0.27
-* Tvheadend version 4.0.5
-* Kodi version 15
+* Tvheadend version 4.0.9
+* Kodi version 16
 
 Overview
 --------
@@ -87,7 +87,7 @@ e.g. "b46f6b35d6823d227644add3ee071eee".
 Configuration: Please adapt the following configuration values within
 `config.rb`:
   * `A1TV_SOURCE_M3U_FILE_URL`: The source m3u file from A1
-  * `TVHEADEND_BASE_URL`: Base URL of Tvheadend Web UI
+  * `TVHEADEND_BASE_URL`: Base URL of the Tvheadend Web UI
   * `TVHEADEND_NETWORK_UUID`: Needs to be set to the UUID of the Network created
     before
 
@@ -124,7 +124,7 @@ automatically create such a `channummap.json` file for A1 TV.
 Configuration:
   * A `channumap.json` file has to be created first.
   * Please adapt the following configuration values within `config.rb`:
-    * `TVHEADEND_BASE_URL`: Base URL of Tvheadend Web UI
+    * `TVHEADEND_BASE_URL`: Base URL of the Tvheadend Web UI
 
 Usage:
     
