@@ -2,6 +2,7 @@
 
 require 'rubygems'
 require 'rest-client'
+require 'json'
 
 require_relative 'config.rb'
 

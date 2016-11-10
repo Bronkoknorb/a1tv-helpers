@@ -6,6 +6,13 @@
 # http://epggw.a1.net/ will list available m3u files
 A1TV_SOURCE_M3U_FILE_URL = "http://epggw.a1.net/a/service.plus.m3u"
 
+# Alternatively you can also use a local copy of an A1 m3u file (e.g. if
+# the A1 site is not available). The git repository contains the m3u files,
+# but the version from the A1 site will probably be more up-to-date.
+# To use a local file comment the above A1TV_SOURCE_M3U_FILE_URL and
+# uncomment and adapt the next line:
+#A1TV_SOURCE_M3U_FILE_URL = "m3u/A1-TV_plus.m3u"
+
 # URL of tvheadend web user interface
 # (Username and password need to be added when public access is not allowed:
 #  e.g.: "http://user:pwd@localhost:9981" )

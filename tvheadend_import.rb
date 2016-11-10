@@ -3,6 +3,7 @@
 require 'rubygems'
 require 'open-uri'
 require 'rest-client'
+require 'json'
 
 require_relative 'config.rb'
 

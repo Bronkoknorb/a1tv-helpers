@@ -1,0 +1,723 @@
+#EXTM3U
+# A1 TV 2016-11-04 13:10
+
+#EXTINF:-1 tvg-num="1" tvg-logo="996",ORFeins
+rtp://@239.2.16.1:8208
+#EXTINF:-1 tvg-num="2" tvg-logo="935",ORF 2 W
+rtp://@239.2.16.2:8208
+#EXTINF:-1 tvg-num="3" tvg-logo="925",ATV
+rtp://@239.2.16.3:8208
+#EXTINF:-1 tvg-num="4" tvg-logo="1052",PULS4
+rtp://@239.2.16.4:8208
+#EXTINF:-1 tvg-num="5" tvg-logo="957",ServusTV
+rtp://@239.2.16.11:8208
+#EXTINF:-1 tvg-num="6" tvg-logo="937",Sat.1 Austria
+rtp://@239.2.16.5:8208
+#EXTINF:-1 tvg-num="7" tvg-logo="936",ProSieben Austria
+rtp://@239.2.16.7:8208
+#EXTINF:-1 tvg-num="8" tvg-logo="928",kabel eins Austria
+rtp://@239.2.16.13:8208
+#EXTINF:-1 tvg-num="9" tvg-logo="999",RTL Austria
+rtp://@239.2.16.6:8208
+#EXTINF:-1 tvg-num="10" tvg-logo="75",A1 TV Plus Info
+rtp://@239.2.16.10:8208
+#EXTINF:-1 tvg-num="11" tvg-logo="1057",VOX Austria
+rtp://@239.2.16.8:8208
+#EXTINF:-1 tvg-num="12" tvg-logo="942",sixx Austria
+rtp://@239.2.16.9:8208
+#EXTINF:-1 tvg-num="13" tvg-logo="1056",RTL2 Austria
+rtp://@239.2.16.12:8208
+#EXTINF:-1 tvg-num="14" tvg-logo="926",ATV//
+rtp://@239.2.16.91:8208
+#EXTINF:-1 tvg-num="15" tvg-logo="956",Sat.1 Gold
+rtp://@239.2.16.27:8208
+#EXTINF:-1 tvg-num="16" tvg-logo="955",ProSieben Maxx
+rtp://@239.2.16.28:8208
+#EXTINF:-1 tvg-num="17" tvg-logo="1059",RTL Nitro
+rtp://@239.2.16.33:8208
+#EXTINF:-1 tvg-num="18" tvg-logo="1016",Das Erste
+rtp://@239.2.16.16:8208
+#EXTINF:-1 tvg-num="19" tvg-logo="1063",ZDF
+rtp://@239.2.16.17:8208
+#EXTINF:-1 tvg-num="20" tvg-logo="1142",kabel eins Doku Austria
+rtp://@239.2.16.19:8208
+#EXTINF:-1 tvg-num="22" tvg-logo="1058",ORF III
+rtp://@239.2.16.29:8208
+#EXTINF:-1 tvg-num="23" tvg-logo="1006",3sat
+rtp://@239.2.16.21:8208
+#EXTINF:-1 tvg-num="24" tvg-logo="1009",arte
+rtp://@239.2.16.22:8208
+#EXTINF:-1 tvg-num="25" tvg-logo="969",DMAX Austria
+rtp://@239.2.16.30:8208
+#EXTINF:-1 tvg-num="26" tvg-logo="1014",Sport1
+rtp://@239.2.16.26:8208
+#EXTINF:-1 tvg-num="27" tvg-logo="1051",ORF SPORT +
+rtp://@239.2.16.78:8208
+#EXTINF:-1 tvg-num="28" tvg-logo="993",SuperRTL
+rtp://@239.2.16.23:8208
+#EXTINF:-1 tvg-num="29" tvg-logo="1010",KIKA
+rtp://@239.2.16.24:8208
+#EXTINF:-1 tvg-num="30" tvg-logo="943",nickelodeon
+rtp://@239.2.16.25:8208
+#EXTINF:-1 tvg-num="31" tvg-logo="1035",Disney Channel
+rtp://@239.2.16.14:8208
+#EXTINF:-1 tvg-num="32" tvg-logo="1060",RiC
+rtp://@239.2.16.117:8208
+#EXTINF:-1 tvg-num="33" tvg-logo="1144",Brandnite
+rtp://@239.2.24.53:8208
+#EXTINF:-1 tvg-num="34" tvg-logo="1050",gotv
+rtp://@239.2.16.36:8208
+#EXTINF:-1 tvg-num="35" tvg-logo="1005",CC/VIVA
+rtp://@239.2.16.35:8208
+#EXTINF:-1 tvg-num="36" tvg-logo="1034",Deluxe Music
+rtp://@239.2.16.108:8208
+#EXTINF:-1 tvg-num="37" tvg-logo="1012",N24 Austria
+rtp://@239.2.16.92:8208
+#EXTINF:-1 tvg-num="38" tvg-logo="1004",n-tv
+rtp://@239.2.16.52:8208
+#EXTINF:-1 tvg-num="39" tvg-logo="981",CNN international
+rtp://@239.2.16.55:8208
+#EXTINF:-1 tvg-num="40" tvg-logo="1015",zdf_neo
+rtp://@239.2.16.44:8208
+#EXTINF:-1 tvg-num="41" tvg-logo="1013",ZDFinfo
+rtp://@239.2.16.43:8208
+#EXTINF:-1 tvg-num="43" tvg-logo="1019",phoenix
+rtp://@239.2.16.39:8208
+#EXTINF:-1 tvg-num="45" tvg-logo="1046",tagesschau24
+rtp://@239.2.16.41:8208
+#EXTINF:-1 tvg-num="46" tvg-logo="1024",one
+rtp://@239.2.16.42:8208
+#EXTINF:-1 tvg-num="47" tvg-logo="1007",ARD alpha
+rtp://@239.2.16.38:8208
+#EXTINF:-1 tvg-num="48" tvg-logo="1018",Tele 5
+rtp://@239.2.16.15:8208
+#EXTINF:-1 tvg-num="49" tvg-logo="959",BR
+rtp://@239.2.16.18:8208
+#EXTINF:-1 tvg-num="50" tvg-logo="1030",SWR BW
+rtp://@239.2.16.46:8208
+#EXTINF:-1 tvg-num="51" tvg-logo="1011",mdr
+rtp://@239.2.16.47:8208
+#EXTINF:-1 tvg-num="52" tvg-logo="1040",NDR
+rtp://@239.2.16.48:8208
+#EXTINF:-1 tvg-num="53" tvg-logo="1000",WDR
+rtp://@239.2.16.49:8208
+#EXTINF:-1 tvg-num="54" tvg-logo="1147",hr
+rtp://@239.2.16.50:8208
+#EXTINF:-1 tvg-num="55" tvg-logo="1047",rbb
+rtp://@239.2.16.51:8208
+#EXTINF:-1 tvg-num="56" tvg-logo="958",SR
+rtp://@239.2.16.74:8208
+#EXTINF:-1 tvg-num="57" tvg-logo="991",BBC World News
+rtp://@239.2.16.57:8208
+#EXTINF:-1 tvg-num="58" tvg-logo="1029",BBC Entertainment
+rtp://@239.2.16.58:8208
+#EXTINF:-1 tvg-num="59" tvg-logo="1001",Euronews
+rtp://@239.2.16.53:8208
+#EXTINF:-1 tvg-num="60" tvg-logo="983",Bloomberg TV
+rtp://@239.2.16.54:8208
+#EXTINF:-1 tvg-num="61" tvg-logo="989",Al Jazeera
+rtp://@239.2.16.56:8208
+#EXTINF:-1 tvg-num="62" tvg-logo="1025",TV5 Monde Europe
+rtp://@239.2.16.60:8208
+#EXTINF:-1 tvg-num="63" tvg-logo="1002",France24
+rtp://@239.2.16.61:8208
+#EXTINF:-1 tvg-num="64" tvg-logo="992",Russia Today
+rtp://@239.2.16.77:8208
+#EXTINF:-1 tvg-num="65" tvg-logo="997",Channel One Russia
+rtp://@239.2.16.102:8208
+#EXTINF:-1 tvg-num="66" tvg-logo="930",ORF 2 B
+rtp://@239.2.16.65:8208
+#EXTINF:-1 tvg-num="67" tvg-logo="931",ORF 2 K
+rtp://@239.2.16.66:8208
+#EXTINF:-1 tvg-num="68" tvg-logo="932",ORF 2 N
+rtp://@239.2.16.67:8208
+#EXTINF:-1 tvg-num="69" tvg-logo="933",ORF 2 O
+rtp://@239.2.16.68:8208
+#EXTINF:-1 tvg-num="70" tvg-logo="1055",ORF 2 S
+rtp://@239.2.16.69:8208
+#EXTINF:-1 tvg-num="71" tvg-logo="934",ORF 2 St
+rtp://@239.2.16.70:8208
+#EXTINF:-1 tvg-num="72" tvg-logo="1054",ORF 2 T
+rtp://@239.2.16.71:8208
+#EXTINF:-1 tvg-num="73" tvg-logo="1053",ORF 2 V
+rtp://@239.2.16.72:8208
+#EXTINF:-1 tvg-num="74" tvg-logo="1151",ORF 2 Europe
+rtp://@239.2.16.116:8208
+#EXTINF:-1 tvg-num="75" tvg-logo="613",Ö3 Visual Radio
+rtp://@239.2.16.73:8208
+#EXTINF:-1 tvg-num="76" tvg-logo="1135",FTV
+rtp://@239.2.16.79:8208
+#EXTINF:-1 tvg-num="77" tvg-logo="927",Joiz
+rtp://@239.2.16.96:8208
+#EXTINF:-1 tvg-num="78" tvg-logo="944",TLC
+rtp://@239.2.16.110:8208
+#EXTINF:-1 tvg-num="80" tvg-logo="435",OE24 TV
+rtp://@239.0.23.195:8208
+#EXTINF:-1 tvg-num="84" tvg-logo="1022",QVC
+rtp://@239.2.16.31:8208
+#EXTINF:-1 tvg-num="86" tvg-logo="1036",HSE24
+rtp://@239.2.16.32:8208
+#EXTINF:-1 tvg-num="91" tvg-logo="1145",Media Shop
+rtp://@239.2.16.94:8208
+#EXTINF:-1 tvg-num="92" tvg-logo="1148",Melodie TV
+rtp://@239.2.16.37:8208
+#EXTINF:-1 tvg-num="93" tvg-logo="995",AstroTV
+rtp://@239.2.16.93:8208
+#EXTINF:-1 tvg-num="94" tvg-logo="1049",Bibel TV
+rtp://@239.2.16.81:8208
+#EXTINF:-1 tvg-num="95" tvg-logo="1038",K-TV
+rtp://@239.2.16.82:8208
+#EXTINF:-1 tvg-num="98" tvg-logo="902",LAOLA1.tv
+rtp://@239.2.16.99:8208
+#EXTINF:-1 tvg-num="99" tvg-logo="890",Eurosport 1
+rtp://@239.2.16.80:8208
+#EXTINF:-1 tvg-num="100" tvg-logo="985",Rai Uno
+rtp://@239.2.16.75:8208
+#EXTINF:-1 tvg-num="101" tvg-logo="984",Rai Due
+rtp://@239.2.16.59:8208
+#EXTINF:-1 tvg-num="102" tvg-logo="998",Rai Tre
+rtp://@239.2.16.76:8208
+#EXTINF:-1 tvg-num="104" tvg-logo="964",Kanal 7 Avrupa
+rtp://@239.2.16.97:8208
+#EXTINF:-1 tvg-num="105" tvg-logo="726",RTS Sat
+rtp://@239.2.16.63:8208
+#EXTINF:-1 tvg-num="107" tvg-logo="1026",HRT 1
+rtp://@239.2.16.64:8208
+#EXTINF:-1 tvg-num="108" tvg-logo="166",BN TV
+rtp://@239.2.16.95:8208
+#EXTINF:-1 tvg-num="109" tvg-logo="167",BN Music
+rtp://@239.2.16.115:8208
+#EXTINF:-1 tvg-num="110" tvg-logo="972",ČT24
+rtp://@239.2.16.98:8208
+#EXTINF:-1 tvg-num="111" tvg-logo="1139",RTL Croatia World
+rtp://@239.2.16.118:8208
+#EXTINF:-1 tvg-num="112" tvg-logo="169",Pro TV Int
+rtp://@239.2.16.100:8208
+#EXTINF:-1 tvg-num="113" tvg-logo="1146",TV Silesia
+rtp://@239.2.16.101:8208
+#EXTINF:-1 tvg-num="114" tvg-logo="965",RTR Planeta
+rtp://@239.2.16.103:8208
+#EXTINF:-1 tvg-num="116" tvg-logo="946",TVE Internacional
+rtp://@239.2.16.106:8208
+#EXTINF:-1 tvg-num="117" tvg-logo="966",Record TV
+rtp://@239.2.16.107:8208
+#EXTINF:-1 tvg-num="118" tvg-logo="990",CCTV News
+rtp://@239.2.16.104:8208
+#EXTINF:-1 tvg-num="119" tvg-logo="982",TVP Polonia
+rtp://@239.2.16.119:8208
+#EXTINF:-1 tvg-num="120" tvg-logo="929",OKTO
+rtp://@239.2.16.34:8208
+#EXTINF:-1 tvg-num="121" tvg-logo="85",SCHAU TV
+rtp://@239.2.16.83:8208
+#EXTINF:-1 tvg-num="122" tvg-logo="86",RT24
+rtp://@239.2.16.84:8208
+#EXTINF:-1 tvg-num="123" tvg-logo="87",P3 TV
+rtp://@239.2.16.85:8208
+#EXTINF:-1 tvg-num="124" tvg-logo="88",WNTV
+rtp://@239.2.16.86:8208
+#EXTINF:-1 tvg-num="125" tvg-logo="89",LT1
+rtp://@239.2.16.87:8208
+#EXTINF:-1 tvg-num="127" tvg-logo="91",KT1
+rtp://@239.2.16.89:8208
+#EXTINF:-1 tvg-num="128" tvg-logo="92",N1
+rtp://@239.2.16.90:8208
+#EXTINF:-1 tvg-num="129" tvg-logo="142",BTV Kärnten
+rtp://@239.2.16.112:8208
+#EXTINF:-1 tvg-num="130" tvg-logo="143",Tirol TV
+rtp://@239.2.16.109:8208
+#EXTINF:-1 tvg-num="132" tvg-logo="141",HT1
+rtp://@239.2.16.114:8208
+#EXTINF:-1 tvg-num="133" tvg-logo="211",Mühlviertel TV
+rtp://@239.2.16.113:8208
+#EXTINF:-1 tvg-num="134" tvg-logo="193",RT Salzburg
+rtp://@239.0.23.66:8208
+#EXTINF:-1 tvg-num="300" tvg-logo="432",A1 TV Plus Info HD
+rtp://@239.2.17.204:8208
+#EXTINF:-1 tvg-num="301" tvg-logo="1098",ORFeins HD
+rtp://@239.2.24.1:8208
+#EXTINF:-1 tvg-num="302" tvg-logo="1097",ORF 2 W HD
+rtp://@239.2.24.2:8208
+#EXTINF:-1 tvg-num="303" tvg-logo="1067",ATV HD
+rtp://@239.2.24.25:8208
+#EXTINF:-1 tvg-num="304" tvg-logo="1105",PULS4 HD
+rtp://@239.3.56.8:8208
+#EXTINF:-1 tvg-num="305" tvg-logo="1113",ServusTV HD
+rtp://@239.2.24.3:8208
+#EXTINF:-1 tvg-num="306" tvg-logo="1112",Sat.1 HD Austria
+rtp://@239.3.56.5:8208
+#EXTINF:-1 tvg-num="307" tvg-logo="1104",ProSieben HD Austria
+rtp://@239.3.56.6:8208
+#EXTINF:-1 tvg-num="308" tvg-logo="1081",kabel eins HD Austria
+rtp://@239.3.56.7:8208
+#EXTINF:-1 tvg-num="309" tvg-logo="1110",RTL HD Austria
+rtp://@239.3.56.1:8208
+#EXTINF:-1 tvg-num="310" tvg-logo="605",A1 TV Plus Info HD
+rtp://@239.2.17.204:8208
+#EXTINF:-1 tvg-num="311" tvg-logo="1125",VOX HD Austria
+rtp://@239.3.56.2:8208
+#EXTINF:-1 tvg-num="312" tvg-logo="1114",sixx HD
+rtp://@239.3.56.11:8208
+#EXTINF:-1 tvg-num="313" tvg-logo="1108",RTL2 HD Austria
+rtp://@239.3.56.4:8208
+#EXTINF:-1 tvg-num="314" tvg-logo="1068",ATV// HD
+rtp://@239.2.24.41:8208
+#EXTINF:-1 tvg-num="315" tvg-logo="1111",Sat.1 Gold HD
+rtp://@239.3.56.15:8208
+#EXTINF:-1 tvg-num="316" tvg-logo="1103",ProSieben Maxx HD
+rtp://@239.3.56.16:8208
+#EXTINF:-1 tvg-num="317" tvg-logo="1109",RTL Nitro HD
+rtp://@239.3.56.17:8208
+#EXTINF:-1 tvg-num="318" tvg-logo="1074",Das Erste HD
+rtp://@239.2.24.4:8208
+#EXTINF:-1 tvg-num="319" tvg-logo="1128",ZDF HD
+rtp://@239.2.24.5:8208
+#EXTINF:-1 tvg-num="320" tvg-logo="939",SRF 1 HD
+rtp://@239.2.24.27:8208
+#EXTINF:-1 tvg-num="321" tvg-logo="941",SRF Zwei HD
+rtp://@239.2.24.28:8208
+#EXTINF:-1 tvg-num="322" tvg-logo="1099",ORF III HD
+rtp://@239.2.24.26:8208
+#EXTINF:-1 tvg-num="323" tvg-logo="1064",3sat HD
+rtp://@239.2.24.7:8208
+#EXTINF:-1 tvg-num="324" tvg-logo="1066",arte HD
+rtp://@239.2.24.6:8208
+#EXTINF:-1 tvg-num="325" tvg-logo="1131",DMAX HD
+rtp://@239.3.56.13:8208
+#EXTINF:-1 tvg-num="326" tvg-logo="1134",Sport1 HD
+rtp://@239.3.56.3:8208
+#EXTINF:-1 tvg-num="327" tvg-logo="1100",ORF SPORT + HD
+rtp://@239.2.24.39:8208
+#EXTINF:-1 tvg-num="328" tvg-logo="1119",SuperRTL HD
+rtp://@239.3.56.18:8208
+#EXTINF:-1 tvg-num="329" tvg-logo="1082",KiKA HD
+rtp://@239.2.24.16:8208
+#EXTINF:-1 tvg-num="330" tvg-logo="1088",nickelodeon HD
+rtp://@239.3.56.9:8208
+#EXTINF:-1 tvg-num="333" tvg-logo="433",Brandnite HD
+rtp://@239.2.24.53:8208
+#EXTINF:-1 tvg-num="335" tvg-logo="1073",CC/VIVA HD
+rtp://@239.2.24.24:8208
+#EXTINF:-1 tvg-num="336" tvg-logo="1075",Deluxe Music HD
+rtp://@239.3.56.14:8208
+#EXTINF:-1 tvg-num="337" tvg-logo="1086",N24 HD
+rtp://@239.3.56.10:8208
+#EXTINF:-1 tvg-num="338" tvg-logo="1085",n-tv HD
+rtp://@239.3.56.19:8208
+#EXTINF:-1 tvg-num="340" tvg-logo="1130",zdf_neo HD
+rtp://@239.2.24.14:8208
+#EXTINF:-1 tvg-num="341" tvg-logo="1129",ZDFinfo HD
+rtp://@239.2.24.13:8208
+#EXTINF:-1 tvg-num="343" tvg-logo="1101",phoenix HD
+rtp://@239.2.24.11:8208
+#EXTINF:-1 tvg-num="345" tvg-logo="1121",tagesschau24 HD
+rtp://@239.2.24.31:8208
+#EXTINF:-1 tvg-num="346" tvg-logo="1078",one HD
+rtp://@239.2.24.29:8208
+#EXTINF:-1 tvg-num="348" tvg-logo="1122",Tele 5 HD
+rtp://@239.3.56.12:8208
+#EXTINF:-1 tvg-num="349" tvg-logo="1070",BR HD
+rtp://@239.2.24.12:8208
+#EXTINF:-1 tvg-num="350" tvg-logo="1120",SWR HD
+rtp://@239.2.24.18:8208
+#EXTINF:-1 tvg-num="351" tvg-logo="1084",mdr HD
+rtp://@239.2.24.32:8208
+#EXTINF:-1 tvg-num="352" tvg-logo="1087",NDR HD
+rtp://@239.2.24.17:8208
+#EXTINF:-1 tvg-num="353" tvg-logo="1126",WDR HD
+rtp://@239.2.24.19:8208
+#EXTINF:-1 tvg-num="354" tvg-logo="1150",hr HD
+rtp://@239.2.24.33:8208
+#EXTINF:-1 tvg-num="357" tvg-logo="1133",BBC World News HD
+rtp://@239.2.24.9:8208
+#EXTINF:-1 tvg-num="366" tvg-logo="1089",ORF 2 B HD
+rtp://@239.2.24.44:8208
+#EXTINF:-1 tvg-num="367" tvg-logo="1090",ORF 2 K HD
+rtp://@239.2.24.46:8208
+#EXTINF:-1 tvg-num="368" tvg-logo="1091",ORF 2 N HD
+rtp://@239.2.24.42:8208
+#EXTINF:-1 tvg-num="369" tvg-logo="1092",ORF 2 O HD
+rtp://@239.2.24.43:8208
+#EXTINF:-1 tvg-num="370" tvg-logo="1093",ORF 2 S HD
+rtp://@239.2.24.47:8208
+#EXTINF:-1 tvg-num="371" tvg-logo="1094",ORF 2 St HD
+rtp://@239.2.24.45:8208
+#EXTINF:-1 tvg-num="372" tvg-logo="1095",ORF 2 T HD
+rtp://@239.2.24.48:8208
+#EXTINF:-1 tvg-num="373" tvg-logo="1096",ORF 2 V HD
+rtp://@239.2.24.49:8208
+#EXTINF:-1 tvg-num="376" tvg-logo="1136",FashionTV HD
+rtp://@239.2.24.10:8208
+#EXTINF:-1 tvg-num="378" tvg-logo="1123",TLC HD
+rtp://@239.3.56.20:8208
+#EXTINF:-1 tvg-num="379" tvg-logo="1008",Anixe HD
+rtp://@239.2.24.8:8208
+#EXTINF:-1 tvg-num="380" tvg-logo="1160",OE24.TV HD
+rtp://@239.0.23.195:8208
+#EXTINF:-1 tvg-num="382" tvg-logo="735",souvenirs from earth HD
+rtp://@239.2.24.37:8208
+#EXTINF:-1 tvg-num="383" tvg-logo="740",Enjoy the Alps.tv HD
+rtp://@239.2.24.38:8208
+#EXTINF:-1 tvg-num="384" tvg-logo="1106",QVC HD
+rtp://@239.2.24.20:8208
+#EXTINF:-1 tvg-num="385" tvg-logo="953",QVC Plus HD
+rtp://@239.2.24.34:8208
+#EXTINF:-1 tvg-num="386" tvg-logo="1080",HSE24 HD
+rtp://@239.2.24.21:8208
+#EXTINF:-1 tvg-num="387" tvg-logo="948",HSE 24 Extra HD
+rtp://@239.2.24.35:8208
+#EXTINF:-1 tvg-num="388" tvg-logo="1164",Sonnenklar.TV HD
+rtp://@239.2.24.22:8208
+#EXTINF:-1 tvg-num="389" tvg-logo="950",Juwelo HD
+rtp://@239.2.24.23:8208
+#EXTINF:-1 tvg-num="390" tvg-logo="952",pearl.tv HD
+rtp://@239.2.24.36:8208
+#EXTINF:-1 tvg-num="396" tvg-logo="970",KIT TV HD
+rtp://@239.2.24.52:8208
+#EXTINF:-1 tvg-num="398" tvg-logo="903",LAOLA1.tv HD
+rtp://@239.2.24.50:8208
+#EXTINF:-1 tvg-num="411" tvg-logo="1003",Duna TV HD
+rtp://@239.2.24.51:8208
+#EXTINF:-1 tvg-num="434" tvg-logo="196",RT Salzburg HD
+rtp://@239.0.23.194:8208
+#EXTINF:-1 tvg-num="435" tvg-logo="434",Austria24 TV HD
+rtp://@239.2.24.40:8208
+#EXTINF:-1 tvg-num="501" tvg-logo="538",13th Street
+rtp://@239.3.48.68:8208
+#EXTINF:-1 tvg-num="502" tvg-logo="537",Syfy
+rtp://@239.3.48.73:8208
+#EXTINF:-1 tvg-num="504" tvg-logo="961",Sony Entertainment TV
+rtp://@239.3.56.88:8208
+#EXTINF:-1 tvg-num="505" tvg-logo="539",AXN
+rtp://@239.3.48.3:8208
+#EXTINF:-1 tvg-num="506" tvg-logo="540",FOX Germany
+rtp://@239.3.48.69:8208
+#EXTINF:-1 tvg-num="507" tvg-logo="541",TNT Serie
+rtp://@239.3.48.74:8208
+#EXTINF:-1 tvg-num="508" tvg-logo="1062",TNT Film
+rtp://@239.3.48.6:8208
+#EXTINF:-1 tvg-num="510" tvg-logo="1037",Kabel 1 Classics
+rtp://@239.3.48.7:8208
+#EXTINF:-1 tvg-num="511" tvg-logo="1042",Sat.1 emotions
+rtp://@239.3.48.8:8208
+#EXTINF:-1 tvg-num="512" tvg-logo="536",MGM
+rtp://@239.3.48.9:8208
+#EXTINF:-1 tvg-num="513" tvg-logo="1041",Romance TV
+rtp://@239.3.48.10:8208
+#EXTINF:-1 tvg-num="514" tvg-logo="1039",KinoweltTV
+rtp://@239.3.48.11:8208
+#EXTINF:-1 tvg-num="517" tvg-logo="545",Disney Junior
+rtp://@239.3.48.93:8208
+#EXTINF:-1 tvg-num="518" tvg-logo="608",Disney XD
+rtp://@239.3.48.94:8208
+#EXTINF:-1 tvg-num="519" tvg-logo="1044",Boomerang
+rtp://@239.3.48.13:8208
+#EXTINF:-1 tvg-num="520" tvg-logo="1032",cartoon network
+rtp://@239.3.48.14:8208
+#EXTINF:-1 tvg-num="521" tvg-logo="960",Fix & Foxi
+rtp://@239.3.48.31:8208
+#EXTINF:-1 tvg-num="525" tvg-logo="988",MTV Dance
+rtp://@239.3.48.16:8208
+#EXTINF:-1 tvg-num="526" tvg-logo="1143",VH1 Classic
+rtp://@239.3.48.17:8208
+#EXTINF:-1 tvg-num="527" tvg-logo="987",Kerrang!
+rtp://@239.3.48.1:8208
+#EXTINF:-1 tvg-num="528" tvg-logo="1033",Classica
+rtp://@239.3.48.2:8208
+#EXTINF:-1 tvg-num="530" tvg-logo="923",Havoc
+rtp://@239.3.48.5:8208
+#EXTINF:-1 tvg-num="532" tvg-logo="547",E! Entertainment
+rtp://@239.3.48.19:8208
+#EXTINF:-1 tvg-num="533" tvg-logo="543",Discovery Channel
+rtp://@239.3.48.20:8208
+#EXTINF:-1 tvg-num="534" tvg-logo="994",Animal Planet
+rtp://@239.3.48.21:8208
+#EXTINF:-1 tvg-num="535" tvg-logo="544",National Geographic
+rtp://@239.3.48.25:8208
+#EXTINF:-1 tvg-num="537" tvg-logo="542",History
+rtp://@239.3.48.22:8208
+#EXTINF:-1 tvg-num="538" tvg-logo="945",A&E
+rtp://@239.3.48.23:8208
+#EXTINF:-1 tvg-num="539" tvg-logo="1043",Planet
+rtp://@239.3.48.24:8208
+#EXTINF:-1 tvg-num="542" tvg-logo="1045",sportdigital
+rtp://@239.3.48.26:8208
+#EXTINF:-1 tvg-num="543" tvg-logo="548",Sport1 +
+rtp://@239.3.48.32:8208
+#EXTINF:-1 tvg-num="544" tvg-logo="546",Sport1 US
+rtp://@239.3.48.27:8208
+#EXTINF:-1 tvg-num="545" tvg-logo="1031",Auto Motor Sport
+rtp://@239.3.48.28:8208
+#EXTINF:-1 tvg-num="546" tvg-logo="1020",Fuel TV
+rtp://@239.3.48.4:8208
+#EXTINF:-1 tvg-num="550" tvg-logo="874",Erox
+rtp://@239.3.48.30:8208
+#EXTINF:-1 tvg-num="551" tvg-logo="980",CNBC
+rtp://@239.3.48.18:8208
+#EXTINF:-1 tvg-num="604" tvg-logo="1115",Sony Entertainment TV HD
+rtp://@239.3.56.88:82089
+#EXTINF:-1 tvg-num="605" tvg-logo="772",AXN HD
+rtp://@239.3.56.95:8208
+#EXTINF:-1 tvg-num="606" tvg-logo="764",FOX Germany HD
+rtp://@239.3.56.43:82089
+#EXTINF:-1 tvg-num="607" tvg-logo="918",TNT Serie HD
+rtp://@239.3.56.46:8208
+#EXTINF:-1 tvg-num="608" tvg-logo="1124",TNT Film HD
+rtp://@239.3.56.71:8208
+#EXTINF:-1 tvg-num="609" tvg-logo="889",TNT Comedy HD
+rtp://@239.3.56.53:8208
+#EXTINF:-1 tvg-num="613" tvg-logo="1107",Romance TV HD
+rtp://@239.3.56.72:8208
+#EXTINF:-1 tvg-num="614" tvg-logo="1083",KinoweltTV HD
+rtp://@239.3.56.73:8208
+#EXTINF:-1 tvg-num="617" tvg-logo="759",Disney Junior HD
+rtp://@239.3.56.40:8208
+#EXTINF:-1 tvg-num="618" tvg-logo="1076",Disney XD HD
+rtp://@239.3.56.76:8208
+#EXTINF:-1 tvg-num="619" tvg-logo="1138",Boomerang HD
+rtp://@239.3.56.74:8208
+#EXTINF:-1 tvg-num="620" tvg-logo="1071",cartoon network HD
+rtp://@239.3.56.75:8208
+#EXTINF:-1 tvg-num="622" tvg-logo="976",Duck TV HD
+rtp://@239.3.56.85:8208
+#EXTINF:-1 tvg-num="628" tvg-logo="1072",Classica HD
+rtp://@239.3.56.84:8208
+#EXTINF:-1 tvg-num="629" tvg-logo="979",Brava TV HD
+rtp://@239.3.56.92:8208
+#EXTINF:-1 tvg-num="630" tvg-logo="978",DJazz TV HD
+rtp://@239.3.56.93:8208
+#EXTINF:-1 tvg-num="631" tvg-logo="924",Havoc HD
+rtp://@239.3.56.83:8208
+#EXTINF:-1 tvg-num="632" tvg-logo="769",E! Entertainment HD
+rtp://@239.3.56.54:8208
+#EXTINF:-1 tvg-num="633" tvg-logo="753",Discovery Channel HD
+rtp://@239.3.56.58:8208
+#EXTINF:-1 tvg-num="634" tvg-logo="1065",Animal Planet HD
+rtp://@239.3.56.77:8208
+#EXTINF:-1 tvg-num="635" tvg-logo="765",National Geographic HD
+rtp://@239.3.56.56:8208
+#EXTINF:-1 tvg-num="636" tvg-logo="962",Nat Geo People HD
+rtp://@239.3.56.94:8208
+#EXTINF:-1 tvg-num="639" tvg-logo="1102",Planet HD
+rtp://@239.3.56.79:8208
+#EXTINF:-1 tvg-num="640" tvg-logo="1028",DocuBox HD
+rtp://@239.3.56.89:8208
+#EXTINF:-1 tvg-num="641" tvg-logo="888",Eurosport 1 HD
+rtp://@239.3.56.36:8208
+#EXTINF:-1 tvg-num="642" tvg-logo="1116",sportdigital HD
+rtp://@239.3.56.80:8208
+#EXTINF:-1 tvg-num="645" tvg-logo="1069",Auto Motor Sport HD
+rtp://@239.3.56.81:8208
+#EXTINF:-1 tvg-num="646" tvg-logo="1079",Fuel TV HD
+rtp://@239.3.56.82:8208
+#EXTINF:-1 tvg-num="647" tvg-logo="967",Fast & FunBox HD
+rtp://@239.3.56.91:8208
+#EXTINF:-1 tvg-num="648" tvg-logo="1149",Fight Channel World HD
+rtp://@239.3.56.86:8208
+#EXTINF:-1 tvg-num="701" tvg-logo="438",Universal HD
+rtp://@239.3.56.59:8208
+#EXTINF:-1 tvg-num="702" tvg-logo="484",FOX HD
+rtp://@239.3.56.43:8208
+#EXTINF:-1 tvg-num="703" tvg-logo="491",TNT Serie HD
+rtp://@239.3.56.46:82089
+#EXTINF:-1 tvg-num="704" tvg-logo="488",Syfy HD
+rtp://@239.3.56.45:8208
+#EXTINF:-1 tvg-num="705" tvg-logo="487",13th Street HD
+rtp://@239.3.56.41:8208
+#EXTINF:-1 tvg-num="707" tvg-logo="436",Sky Krimi
+rtp://@239.3.48.72:8208
+#EXTINF:-1 tvg-num="708" tvg-logo="477",FOX
+rtp://@239.3.48.69:8208
+#EXTINF:-1 tvg-num="709" tvg-logo="479",TNT Serie
+rtp://@239.3.48.74:8208
+#EXTINF:-1 tvg-num="710" tvg-logo="472",RTL Crime
+rtp://@239.3.48.70:8208
+#EXTINF:-1 tvg-num="711" tvg-logo="439",SyFy
+rtp://@239.3.48.73:8208
+#EXTINF:-1 tvg-num="712" tvg-logo="442",13th Street
+rtp://@239.3.48.68:82089
+#EXTINF:-1 tvg-num="713" tvg-logo="448",Passion
+rtp://@239.3.48.71:8208
+#EXTINF:-1 tvg-num="714" tvg-logo="449",TNT Comedy HD
+rtp://@239.3.56.53:82089
+#EXTINF:-1 tvg-num="715" tvg-logo="481",Spiegel Geschichte HD
+rtp://@239.3.56.60:8208
+#EXTINF:-1 tvg-num="716" tvg-logo="504",Disney Junior HD
+rtp://@239.3.56.40:82089
+#EXTINF:-1 tvg-num="717" tvg-logo="508",RTL Crime HD
+rtp://@239.3.56.63:8208
+#EXTINF:-1 tvg-num="718" tvg-logo="922",Sky Arts HD
+rtp://@239.3.56.65:8208
+#EXTINF:-1 tvg-num="730" tvg-logo="480",Sky Sport News HD
+rtp://@239.3.56.21:8208
+#EXTINF:-1 tvg-num="731" tvg-logo="519",Sky Sport 1 HD
+rtp://@239.3.56.22:8208
+#EXTINF:-1 tvg-num="732" tvg-logo="511",Sky Sport 2 HD
+rtp://@239.3.56.23:8208
+#EXTINF:-1 tvg-num="733" tvg-logo="550",Sky Sport 3 HD
+rtp://@239.3.56.24:8208
+#EXTINF:-1 tvg-num="734" tvg-logo="568",Sky Sport 4 HD
+rtp://@239.3.56.25:8208
+#EXTINF:-1 tvg-num="735" tvg-logo="534",Sky Sport 5 HD
+rtp://@239.3.56.26:8208
+#EXTINF:-1 tvg-num="736" tvg-logo="569",Sky Sport 6 HD
+rtp://@239.3.56.27:8208
+#EXTINF:-1 tvg-num="737" tvg-logo="567",Sky Sport 7 HD
+rtp://@239.3.56.28:8208
+#EXTINF:-1 tvg-num="738" tvg-logo="558",Sky Sport 8 HD
+rtp://@239.3.56.29:8208
+#EXTINF:-1 tvg-num="739" tvg-logo="885",Sky Sport Austria HD
+rtp://@239.2.56.64:8208
+#EXTINF:-1 tvg-num="741" tvg-logo="517",Sky Bundesliga HD 1
+rtp://@239.3.56.30:8208
+#EXTINF:-1 tvg-num="742" tvg-logo="524",Sky Bundesliga HD 2
+rtp://@239.3.56.31:8208
+#EXTINF:-1 tvg-num="743" tvg-logo="516",Sky Bundesliga HD 3
+rtp://@239.3.56.32:8208
+#EXTINF:-1 tvg-num="744" tvg-logo="526",Sky Bundesliga HD 4
+rtp://@239.3.56.33:8208
+#EXTINF:-1 tvg-num="745" tvg-logo="515",Sky Bundesliga HD 5
+rtp://@239.3.56.34:8208
+#EXTINF:-1 tvg-num="746" tvg-logo="523",Sky Bundesliga HD 6
+rtp://@239.3.56.35:8208
+#EXTINF:-1 tvg-num="747" tvg-logo="455",Sport1 US HD
+rtp://@239.3.56.39:8208
+#EXTINF:-1 tvg-num="749" tvg-logo="499",Sport1+ HD
+rtp://@239.3.56.38:8208
+#EXTINF:-1 tvg-num="751" tvg-logo="452",Eurosport 1 HD
+rtp://@239.3.56.36:82089
+#EXTINF:-1 tvg-num="752" tvg-logo="450",Eurosport 2 HD
+rtp://@239.3.56.37:8208
+#EXTINF:-1 tvg-num="754" tvg-logo="494",Sky Sport News
+rtp://@239.3.48.41:8208
+#EXTINF:-1 tvg-num="755" tvg-logo="521",Sky Sport 1
+rtp://@239.3.48.42:8208
+#EXTINF:-1 tvg-num="756" tvg-logo="518",Sky Sport 2
+rtp://@239.3.48.43:8208
+#EXTINF:-1 tvg-num="757" tvg-logo="549",Sky Sport 3
+rtp://@239.3.48.44:8208
+#EXTINF:-1 tvg-num="758" tvg-logo="510",Sky Sport 4
+rtp://@239.3.48.45:8208
+#EXTINF:-1 tvg-num="759" tvg-logo="535",Sky Sport 5
+rtp://@239.3.48.46:8208
+#EXTINF:-1 tvg-num="760" tvg-logo="557",Sky Sport 6
+rtp://@239.3.48.47:8208
+#EXTINF:-1 tvg-num="761" tvg-logo="554",Sky Sport 7
+rtp://@239.3.48.48:8208
+#EXTINF:-1 tvg-num="762" tvg-logo="559",Sky Sport 8
+rtp://@239.3.48.49:8208
+#EXTINF:-1 tvg-num="763" tvg-logo="556",Sky Sport 9
+rtp://@239.3.48.50:8208
+#EXTINF:-1 tvg-num="764" tvg-logo="553",Sky Sport 10
+rtp://@239.3.48.51:8208
+#EXTINF:-1 tvg-num="765" tvg-logo="551",Sky Sport 11
+rtp://@239.3.48.52:8208
+#EXTINF:-1 tvg-num="766" tvg-logo="500",Sky Sport Austria
+rtp://@239.3.48.67:8208
+#EXTINF:-1 tvg-num="767" tvg-logo="514",Sky Bundesliga 1
+rtp://@239.3.48.55:8208
+#EXTINF:-1 tvg-num="768" tvg-logo="528",Sky Bundesliga 2
+rtp://@239.3.48.56:8208
+#EXTINF:-1 tvg-num="769" tvg-logo="513",Sky Bundesliga 3
+rtp://@239.3.48.57:8208
+#EXTINF:-1 tvg-num="770" tvg-logo="522",Sky Bundesliga 4
+rtp://@239.3.48.58:8208
+#EXTINF:-1 tvg-num="771" tvg-logo="512",Sky Bundesliga 5
+rtp://@239.3.48.59:8208
+#EXTINF:-1 tvg-num="772" tvg-logo="525",Sky Bundesliga 6
+rtp://@239.3.48.60:8208
+#EXTINF:-1 tvg-num="773" tvg-logo="555",Sky Bundesliga 7
+rtp://@239.3.48.61:8208
+#EXTINF:-1 tvg-num="774" tvg-logo="560",Sky Bundesliga 8
+rtp://@239.3.48.62:8208
+#EXTINF:-1 tvg-num="775" tvg-logo="552",Sky Bundesliga 9
+rtp://@239.3.48.63:8208
+#EXTINF:-1 tvg-num="776" tvg-logo="561",Sky Bundesliga 10
+rtp://@239.3.48.65:8208
+#EXTINF:-1 tvg-num="799" tvg-logo="1141",Sky Cinema Family HD
+rtp://@239.3.56.66:8208
+#EXTINF:-1 tvg-num="800" tvg-logo="520",Sky Atlantic HD
+rtp://@239.3.56.44:8208
+#EXTINF:-1 tvg-num="801" tvg-logo="473",Sky Cinema HD
+rtp://@239.3.56.51:8208
+#EXTINF:-1 tvg-num="802" tvg-logo="471",Sky Cinema +1 HD
+rtp://@239.3.56.61:8208
+#EXTINF:-1 tvg-num="803" tvg-logo="482",Sky Cinema +24 HD
+rtp://@239.3.56.62:8208
+#EXTINF:-1 tvg-num="804" tvg-logo="533",Sky Hits HD
+rtp://@239.3.56.52:8208
+#EXTINF:-1 tvg-num="805" tvg-logo="476",Sky Action HD
+rtp://@239.3.56.50:8208
+#EXTINF:-1 tvg-num="806" tvg-logo="506",Disney Cinemagic HD
+rtp://@239.3.56.47:8208
+#EXTINF:-1 tvg-num="807" tvg-logo="532",MGM HD
+rtp://@239.3.56.48:8208
+#EXTINF:-1 tvg-num="808" tvg-logo="501",Sky 3D
+rtp://@239.3.56.49:8208
+#EXTINF:-1 tvg-num="809" tvg-logo="527",Sky Cinema
+rtp://@239.3.48.75:8208
+#EXTINF:-1 tvg-num="810" tvg-logo="470",Sky Cinema +1
+rtp://@239.3.48.76:8208
+#EXTINF:-1 tvg-num="811" tvg-logo="474",Sky Cinema +24
+rtp://@239.3.48.77:8208
+#EXTINF:-1 tvg-num="812" tvg-logo="453",Sky Hits
+rtp://@239.3.48.78:8208
+#EXTINF:-1 tvg-num="813" tvg-logo="456",Sky Action
+rtp://@239.3.48.79:8208
+#EXTINF:-1 tvg-num="814" tvg-logo="440",Sky Comedy
+rtp://@239.3.48.80:8208
+#EXTINF:-1 tvg-num="815" tvg-logo="478",Sky Emotion
+rtp://@239.3.48.81:8208
+#EXTINF:-1 tvg-num="816" tvg-logo="483",Sky Nostalgie
+rtp://@239.3.48.82:8208
+#EXTINF:-1 tvg-num="817" tvg-logo="530",Disney Cinemagic
+rtp://@239.3.48.83:8208
+#EXTINF:-1 tvg-num="818" tvg-logo="531",MGM
+rtp://@239.3.48.84:8208
+#EXTINF:-1 tvg-num="819" tvg-logo="498",Heimatkanal
+rtp://@239.3.48.85:8208
+#EXTINF:-1 tvg-num="820" tvg-logo="495",Beate-Uhse.TV
+rtp://@239.3.48.86:8208
+#EXTINF:-1 tvg-num="821" tvg-logo="529",Sky Atlantic
+rtp://@239.3.48.92:8208
+#EXTINF:-1 tvg-num="822" tvg-logo="912",KinoweltTV
+rtp://@239.3.48.98:8208
+#EXTINF:-1 tvg-num="823" tvg-logo="914",TNT Film
+rtp://@239.3.48.99:8208
+#EXTINF:-1 tvg-num="824" tvg-logo="1140",Sky Cinema Family
+rtp://@239.3.48.100:8208
+#EXTINF:-1 tvg-num="829" tvg-logo="1159",Sky 1 HD
+rtp://@239.3.56.42:8208
+#EXTINF:-1 tvg-num="830" tvg-logo="509",National Geographic HD
+rtp://@239.3.56.56:82088
+#EXTINF:-1 tvg-num="831" tvg-logo="475",Nat Geo Wild HD
+rtp://@239.3.56.57:8208
+#EXTINF:-1 tvg-num="832" tvg-logo="496",E! Entertainment HD
+rtp://@239.3.56.54:82089
+#EXTINF:-1 tvg-num="833" tvg-logo="490",History HD
+rtp://@239.3.56.55:8208
+#EXTINF:-1 tvg-num="834" tvg-logo="505",Discovery Channel HD
+rtp://@239.3.56.58:82089
+#EXTINF:-1 tvg-num="835" tvg-logo="502",Discovery Channel
+rtp://@239.3.48.87:8208
+#EXTINF:-1 tvg-num="836" tvg-logo="507",National Geographic
+rtp://@239.3.48.88:8208
+#EXTINF:-1 tvg-num="837" tvg-logo="493",Nat Geo Wild
+rtp://@239.3.48.89:8208
+#EXTINF:-1 tvg-num="838" tvg-logo="486",Spiegel Geschichte
+rtp://@239.3.48.90:8208
+#EXTINF:-1 tvg-num="839" tvg-logo="441",Motorvision
+rtp://@239.3.48.91:8208
+#EXTINF:-1 tvg-num="840" tvg-logo="1158",Sky 1
+rtp://@239.3.48.66:8208
+#EXTINF:-1 tvg-num="852" tvg-logo="443",Disney Junior
+rtp://@239.3.48.93:82088
+#EXTINF:-1 tvg-num="853" tvg-logo="451",Disney XD
+rtp://@239.3.48.94:82088
+#EXTINF:-1 tvg-num="854" tvg-logo="492",Junior
+rtp://@239.3.48.95:8208
+#EXTINF:-1 tvg-num="860" tvg-logo="447",GoldStar TV
+rtp://@239.3.48.96:8208
+#EXTINF:-1 tvg-num="861" tvg-logo="497",Classica
+rtp://@239.3.48.97:8208
+#EXTINF:-1 tvg-num="999" tvg-logo="123",A1 TV Plus Info
+rtp://@239.2.16.10:8208
