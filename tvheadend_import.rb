@@ -11,7 +11,6 @@ require_relative 'config.rb'
 
 channum = nil
 name = nil
-xmltv_id = nil
 url = nil
 
 open(A1TV_SOURCE_M3U_FILE_URL) {|f|
@@ -20,13 +19,9 @@ open(A1TV_SOURCE_M3U_FILE_URL) {|f|
     if /^#EXTINF:.*tvg-num="([^"]*)".*,(.*)/ =~ line
       channum = $1
       name = $2
-      xmltv_id = CHANNEL_TABLE[name]
     elsif /^(rtp:\/\/.*)/ =~ line
       url = $1
-      puts "Configuring: #{channum} #{name} #{xmltv_id} #{url}"
-      if xmltv_id == nil
-        print "Warning: No xmltv id for channel - ", name, "\n"
-      end
+      puts "Configuring: #{channum} #{name} #{url}"
       
       # create a Mux using the RESTful JSON API
       RestClient.post TVHEADEND_BASE_URL+"/api/mpegts/network/mux_create", :uuid => TVHEADEND_NETWORK_UUID,
