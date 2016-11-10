@@ -68,6 +68,7 @@ CHANNEL_TABLE = {
   "ProSieben Maxx" => "maxx.prosieben.de",
   "ProSieben Maxx Austria" => "maxx.prosieben.de",
   "RTL Nitro" => "nitro.rtl.de",
+  "RTL Nitro Austria" => "nitro.rtl.de",
   "Das Erste" => "daserste.de",
   "Das Erste HD" => "daserste.de",
   "ZDF" => "zdf.de",
