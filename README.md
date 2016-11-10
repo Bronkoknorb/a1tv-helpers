@@ -38,7 +38,7 @@ Overview
 * [`create_mythtv_m3u.rb`](#create_mythtv_m3urb) - Convert A1 TV channel list to an m3u file compatible with MythTV
 * [`tvheadend_import.rb`](#tvheadend_importrb) - Import A1 TV channels into Tvheadend (for viewing them in Kodi)
 * [`tvheadend_channelnumbers.rb`](#tvheadend_channelnumbersrb) - Setup channel numbers in Tvheadend (and Kodi)
-* [`create_channummap.rb`](#create_channummaprb) - Create channel numbers for A1 TV channels
+* [`create_channummap.rb`](#create_channummaprb) - Create default channel numbers for A1 TV channels
 * [`tvheadend_xmltv.rb`](#tvheadend_xmltvrb) - Setup XMLTV IDs with channels so that EPG data is available in Tvheadend (and Kodi)
 
 create_mythtv_m3u.rb
