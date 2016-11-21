@@ -203,7 +203,8 @@ You will then need to ensure that Tvheadend runs the grabber at least once. The
 *Cron multi-line* property controls how often the grabber is run. You can either
 wait for the configured time to pass or set it temporarily to the next minute
 (e.g. set it to `53 19 * * *` if the time is currently 19:52). Then wait a few
-minutes for the grabber to finish.
+minutes for the grabber to finish. In newer versions if tvheadend you can simply
+click on "Re-run internal EPG grabbers" to run it immediately.
 
 If everything worked out fine, you should then be able to associate XMLTV IDs
 with the channels. Go to *Configuration -> Channel / EPG -> Channels* select one
