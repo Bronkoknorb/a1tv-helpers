@@ -32,7 +32,7 @@ Compatibility
 These scripts have been tested with the following versions:
 
 * MythTV version 0.27
-* Tvheadend version 4.0.9
+* Tvheadend version 4.0.9 and 4.1
 * Kodi version 16 and 17
 
 Overview
