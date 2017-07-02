@@ -5,14 +5,14 @@ This is a collection of scripts for importing channels of Austrian IPTV
 [A1 TV](https://www.a1.net/tv/s/tv-uebersicht) into [MythTV](https://www.mythtv.org/) and
 [Tvheadend](http://tvheadend.org/).
 
-As Tvheadend can be used as a [PVR backend for Kodi](http://kodi.wiki/view/Tvheadend_PVR), these scripts enable to watch A1 TV within Kodi. [Kodi](http://kodi.tv/) (formerly
+As Tvheadend can be used as a [PVR backend for Kodi](http://kodi.wiki/view/Tvheadend_PVR), these scripts enable to watch and record A1 TV within Kodi. [Kodi](http://kodi.tv/) (formerly
 known as XBMC) is a popular Media Center software for Linux, Windows and Android and it is also used as the media player within
 [OSMC](http://osmc.tv/) (the successor of Raspbmc),
 [LibreELEC](https://libreelec.tv/), [OpenELEC](http://openelec.tv/),
 [XBian](http://www.xbian.org/) and more. All of them can be run on a
 [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi).
 
-Personally I currently use a Raspberry Pi 3 with Raspbian Jessie, Kodi and Tvheadend to watch and record A1 TV and it works well.
+Personally I currently use a Raspberry Pi 3 with Raspbian Jessie, Kodi and Tvheadend to watch and record A1 TV and it works really well. Before that I used a Media Center PC with MythTV, but development of MythTV seems to progress only slowly, so I wouldn't recommend it any more.
 
 Source: https://github.com/Bronkoknorb/a1tv-helpers
 
