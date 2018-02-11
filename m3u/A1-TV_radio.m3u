@@ -1,5 +1,5 @@
 #EXTM3U
-# A1 TV Radio 2016-11-07 08:57
+# A1 TV Radio 2018-02-01 08:33
 
 #EXTINF:-1 group-title="Österreich" radio=true,Ö1
 udp://@239.0.144.1:8208
@@ -27,7 +27,7 @@ udp://@239.0.144.11:8208
 udp://@239.0.144.12:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Radio FRO
 udp://@239.0.146.21:8208
-#EXTINF:-1 group-title="Österreich" radio=true,88.6 Der Musiksender Wien
+#EXTINF:-1 group-title="Österreich" radio=true,Radio 88.6
 udp://@239.0.146.64:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Welle 1 Salzburg
 udp://@239.0.146.65:8208
@@ -35,8 +35,6 @@ udp://@239.0.146.65:8208
 udp://@239.0.146.39:8208
 #EXTINF:-1 group-title="Österreich" radio=true,orange 94.0
 udp://@239.0.146.70:8208
-#EXTINF:-1 group-title="Österreich" radio=true,Radio Energy Salzburg
-udp://@239.0.146.77:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Radio Klassik Stephansdom
 udp://@239.0.146.81:8208
 #EXTINF:-1 group-title="Österreich" radio=true,ORF Radio Wien
@@ -47,10 +45,12 @@ udp://@239.0.146.54:8208
 udp://@239.0.146.88:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Radio Soundportal
 udp://@239.0.146.97:8208
-#EXTINF:-1 group-title="Österreich" radio=true,88.6 Der Musiksender Regional
-udp://@239.0.146.98:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Radio Val Canale
+udp://@239.0.146.18:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Radio Uno
 udp://@239.0.146.106:8208
+#EXTINF:-1 group-title="Österreich" radio=true,LoungeFM
+udp://@239.0.146.35:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Campus Radio 94.4
 udp://@239.0.146.62:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Radio Agora
@@ -61,8 +61,6 @@ udp://@239.0.146.117:8208
 udp://@239.0.146.118:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Antenne Vorarlberg
 udp://@239.0.146.119:8208
-#EXTINF:-1 group-title="Österreich" radio=true,republic-cafe
-udp://@239.0.146.121:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Antenne Kärnten
 udp://@239.0.146.124:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Life Radio
@@ -71,8 +69,6 @@ udp://@239.0.146.129:8208
 udp://@239.0.146.104:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Radio U1 Tirol
 udp://@239.0.146.133:8208
-#EXTINF:-1 group-title="Österreich" radio=true,MusicBase.FM - Main
-udp://@239.0.147.22:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Life Radio - Austro
 udp://@239.0.146.143:8208
 #EXTINF:-1 group-title="Österreich" radio=true,98.3 Superfly
@@ -93,10 +89,6 @@ udp://@239.0.147.2:8208
 udp://@239.0.147.4:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Radio Alpina 106.9 - Der Musiksender
 udp://@239.0.147.5:8208
-#EXTINF:-1 group-title="Österreich" radio=true,MusicBase.FM - House
-udp://@239.0.146.48:8208
-#EXTINF:-1 group-title="Österreich" radio=true,MusicBase.FM - Hard
-udp://@239.0.146.50:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Radio Arabella - Christmas
 udp://@239.0.146.150:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Radio Volksmusik
@@ -113,28 +105,16 @@ udp://@239.0.146.79:8208
 udp://@239.0.147.24:8208
 #EXTINF:-1 group-title="Österreich" radio=true,KRONEHIT - Dance
 udp://@239.0.146.91:8208
-#EXTINF:-1 group-title="Österreich" radio=true,Radio kathTube
-udp://@239.0.146.102:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Life Radio Tirol
 udp://@239.0.146.109:8208
 #EXTINF:-1 group-title="Österreich" radio=true,JOYradio
 udp://@239.0.146.111:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Radio St. Florian am Inn
 udp://@239.0.146.116:8208
-#EXTINF:-1 group-title="Österreich" radio=true,piu Lounge
-udp://@239.0.146.142:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Radio Arabella - Ti  Amo
 udp://@239.0.146.92:8208
-#EXTINF:-1 group-title="Österreich" radio=true,Welle Murtal
-udp://@239.0.146.37:8208
-#EXTINF:-1 group-title="Österreich" radio=true,MusicBase.FM - Black
-udp://@239.0.146.51:8208
 #EXTINF:-1 group-title="Österreich" radio=true,MusicBase.FM - Rock
-udp://@239.0.146.60:8208
-#EXTINF:-1 group-title="Österreich" radio=true,MusicBase.FM - Dance
-udp://@239.0.147.48:8208
-#EXTINF:-1 group-title="Österreich" radio=true,MusicBase.FM - Trance
-udp://@239.0.147.85:8208
+udp://@239.0.146.76:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Antenne Tirol
 udp://@239.0.146.74:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Welle 1 Graz
@@ -182,15 +162,13 @@ udp://@239.0.147.80:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Antenne Vorarlberg - Lovesongs
 udp://@239.0.147.81:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Radio Alpenstar
-udp://@239.0.147.39:8208
+udp://@239.0.146.126:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Studio Enns
 udp://@239.0.147.40:8208
 #EXTINF:-1 group-title="Österreich" radio=true,KRONEHIT - Y.A.M.
 udp://@239.0.147.86:8208
 #EXTINF:-1 group-title="Österreich" radio=true,KRONEHIT - Vollgas
 udp://@239.0.147.87:8208
-#EXTINF:-1 group-title="Österreich" radio=true,KRONEHIT - Summer
-udp://@239.0.146.85:8208
 #EXTINF:-1 group-title="Österreich" radio=true,NJOY Radio
 udp://@239.0.147.41:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Freies Radio Salzkammergut
@@ -198,11 +176,11 @@ udp://@239.0.146.83:8208
 #EXTINF:-1 group-title="Österreich" radio=true,KRONEHIT - Balkan-Beats
 udp://@239.0.147.89:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Antenne Salzburg
-udp://@239.0.147.44:8208
+udp://@239.0.146.102:8208
 #EXTINF:-1 group-title="Österreich" radio=true,KRONEHIT - Greatest Hits
 udp://@239.0.146.94:8208
-#EXTINF:-1 group-title="Österreich" radio=true,Antenne Vorarlberg - Spezial
-udp://@239.0.147.95:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Sternenfeuer-Radio
+udp://@239.0.146.85:8208
 #EXTINF:-1 group-title="Österreich" radio=true,dubbase.fm
 udp://@239.0.147.46:8208
 #EXTINF:-1 group-title="Österreich" radio=true,KRONEHIT - Love
@@ -217,12 +195,10 @@ udp://@239.0.147.49:8208
 udp://@239.0.147.104:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Radio RF1
 udp://@239.0.147.12:8208
-#EXTINF:-1 group-title="Österreich" radio=true,HouseBase.at
-udp://@239.0.147.51:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Spirit Live Radio
 udp://@239.0.147.52:8208
-#EXTINF:-1 group-title="Österreich" radio=true,Radio Habibi
-udp://@239.0.147.16:8208
+#EXTINF:-1 group-title="Österreich" radio=true,ORF Slovenski Radijski Spored
+udp://@239.0.146.82:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Bundesliga ON EAR - Heimspiele SK Rapid Wien
 udp://@239.0.147.57:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Bundesliga ON EAR - Heimspiele FC Red Bull Salzburg
@@ -235,8 +211,8 @@ udp://@239.0.146.89:8208
 udp://@239.0.147.62:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Radius 106.6
 udp://@239.0.147.63:8208
-#EXTINF:-1 group-title="Österreich" radio=true,80s-Radio
-udp://@239.0.147.65:8208
+#EXTINF:-1 group-title="Österreich" radio=true,KRONEHIT - Christmas
+udp://@239.0.146.77:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Antenne Vorarlberg - Oldies
 udp://@239.0.147.118:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Radio Proton
@@ -251,12 +227,12 @@ udp://@239.0.147.72:8208
 udp://@239.0.147.126:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Welle 1 Kärnten
 udp://@239.0.146.107:8208
-#EXTINF:-1 group-title="Österreich" radio=true,Radio Mürztal
-udp://@239.0.147.93:8208
 #EXTINF:-1 group-title="Österreich" radio=true,MEIN KINDERRADIO
 udp://@239.0.147.94:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Radio OP
 udp://@239.0.147.100:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Radio Real
+udp://@239.0.146.114:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Oldie Party Austria
 udp://@239.0.147.102:8208
 #EXTINF:-1 group-title="Österreich" radio=true,KRONEHIT - Interactive
@@ -269,6 +245,10 @@ udp://@239.0.147.143:8208
 udp://@239.0.147.144:8208
 #EXTINF:-1 group-title="Österreich" radio=true,macjingle - Heartbeat
 udp://@239.0.147.107:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Wattens.FM
+udp://@239.0.146.61:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Starlight Radio
+udp://@239.0.146.105:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Austria Alpenradio
 udp://@239.0.147.110:8208
 #EXTINF:-1 group-title="Österreich" radio=true,ERF Plus Österreich
@@ -277,8 +257,6 @@ udp://@239.0.147.112:8208
 udp://@239.0.147.113:8208
 #EXTINF:-1 group-title="Österreich" radio=true,KRONEHIT - Electric Love
 udp://@239.0.146.147:8208
-#EXTINF:-1 group-title="Österreich" radio=true,Radio Servus
-udp://@239.0.147.114:8208
 #EXTINF:-1 group-title="Österreich" radio=true,NOW Radio
 udp://@239.0.147.115:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Stahlradio
@@ -289,8 +267,8 @@ udp://@239.0.147.14:8208
 udp://@239.0.147.129:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Radio Waltl
 udp://@239.0.147.116:8208
-#EXTINF:-1 group-title="Österreich" radio=true,KRONEHIT - Halloween
-udp://@239.0.146.115:8208
+#EXTINF:-1 group-title="Österreich" radio=true,KRONEHIT - Best of 2016
+udp://@239.0.146.86:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Radio Max - PENNYlive
 udp://@239.0.147.92:8208
 #EXTINF:-1 group-title="Österreich" radio=true,macjingle - Todays Best
@@ -301,7 +279,7 @@ udp://@239.0.147.21:8208
 udp://@239.0.147.134:8208
 #EXTINF:-1 group-title="Österreich" radio=true,KRONEHIT - Ultra HD
 udp://@239.0.147.136:8208
-#EXTINF:-1 group-title="Österreich" radio=true,Volksmusik Pur
+#EXTINF:-1 group-title="Österreich" radio=true,Pur-Radio - Volksmusikpur
 udp://@239.0.147.122:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Welle 1 Tirol
 udp://@239.0.147.123:8208
@@ -311,8 +289,6 @@ udp://@239.0.146.140:8208
 udp://@239.0.147.13:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Welle 1 Tirol - Black
 udp://@239.0.147.17:8208
-#EXTINF:-1 group-title="Österreich" radio=true,Welle 1 Tirol - AMS
-udp://@239.0.147.18:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Welle 1 Tirol - Lounge
 udp://@239.0.147.19:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Radio Arabella - Radio Melodie
@@ -375,14 +351,8 @@ udp://@239.0.147.28:8208
 udp://@239.0.147.29:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Radio Allelon
 udp://@239.0.147.25:8208
-#EXTINF:-1 group-title="Österreich" radio=true,Radio Allelon - RO
-udp://@239.0.147.38:8208
-#EXTINF:-1 group-title="Österreich" radio=true,Radio Allelon - Arab
-udp://@239.0.147.43:8208
-#EXTINF:-1 group-title="Österreich" radio=true,mass-home Webradio
-udp://@239.0.147.82:8208
 #EXTINF:-1 group-title="Österreich" radio=true,radiomix.at - Kanal 01
-udp://@239.0.147.47:8208
+udp://@239.0.146.87:8208
 #EXTINF:-1 group-title="Österreich" radio=true,KRONEHIT - Electric
 udp://@239.0.147.96:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Radio Alpenstar - Schlager
@@ -407,28 +377,84 @@ udp://@239.0.147.56:8208
 udp://@239.0.147.59:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Life Radio - Clam
 udp://@239.0.147.64:8208
-#EXTINF:-1 group-title="Österreich" radio=true,Life Radio - Eiszeit
-udp://@239.0.147.73:8208
-#EXTINF:-1 group-title="Österreich" radio=true,Radio Weiss Rot
-udp://@239.0.147.84:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Radio Energy Wien - Pop
 udp://@239.0.146.139:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Radio Energy Wien - Fitness
 udp://@239.0.147.23:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Radio Energy Wien - Rock
+udp://@239.0.146.75:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Radio Energy Wien - RnB
+udp://@239.0.146.96:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Radio Energy Wien - Lounge
+udp://@239.0.146.100:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Radio Energy Wien - Dance
+udp://@239.0.146.112:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Radio Energy Wien - Acoustic Hits
 udp://@239.0.147.27:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Radio Energy Wien - Hits
 udp://@239.0.147.35:8208
+#EXTINF:-1 group-title="Österreich" radio=true,LoungeFM - Digital
+udp://@239.0.147.47:8208
+#EXTINF:-1 group-title="Österreich" radio=true,LoungeFM - 100% Austria
+udp://@239.0.147.73:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Seestadtradio
 udp://@239.0.147.103:8208
 #EXTINF:-1 group-title="Österreich" radio=true,Radio Max - BIG CITY LIVE
 udp://@239.0.147.50:8208
 #EXTINF:-1 group-title="Österreich" radio=true,LoungeFM - OÖ
-udp://@239.0.147.54:8208
-#EXTINF:-1 group-title="Österreich" radio=true,Welle 1 Tirol - Rock
-udp://@239.0.147.108:8208
+udp://@239.0.146.131:8208
 #EXTINF:-1 group-title="Österreich" radio=true,ZÜRS FM
+udp://@239.0.147.44:8208
+#EXTINF:-1 group-title="Österreich" radio=true,KRONEHIT - Total Versext
+udp://@239.0.147.88:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Radio Freie Welle
+udp://@239.0.146.120:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Lavica Radio 
+udp://@239.0.146.122:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Pur-Radio - Schlagerpur
+udp://@239.0.146.138:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Radio 88.6 - Rock
+udp://@239.0.147.39:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Pur-Radio - Oberkrainerpur
+udp://@239.0.147.26:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Radio Technikum - Rock Cockpit
+udp://@239.0.147.101:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Radio Technikum - Smooth Jazz
+udp://@239.0.147.51:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Radio Technikum - Hit Classics
+udp://@239.0.147.54:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Campusradio JKU
+udp://@239.0.147.38:8208
+#EXTINF:-1 group-title="Österreich" radio=true,NJOY Radio - Wien
+udp://@239.0.147.95:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Radio PL1
+udp://@239.0.147.109:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Radio Arabella - 90s
+udp://@239.0.147.22:8208
+#EXTINF:-1 group-title="Österreich" radio=true,T-Rock
+udp://@239.0.147.82:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Planet Lounge Radio
+udp://@239.0.147.37:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Radiohit
+udp://@239.0.147.85:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Radio 88.6 - Die 80er
+udp://@239.0.147.43:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Radio 88.6 - Classic Rock
+udp://@239.0.147.45:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Antenne Vorarlberg - Deutsche Hits
+udp://@239.0.147.65:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Antenne Vorarlberg - Disco
+udp://@239.0.147.71:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Antenne Vorarlberg - Musica Italiana
 udp://@239.0.147.138:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Sunshine Radio
+udp://@239.0.147.93:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Antenne Kärnten - Christmas Hits
+udp://@239.0.147.84:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Antenne Kärnten - Sunrise
+udp://@239.0.147.108:8208
+#EXTINF:-1 group-title="Österreich" radio=true,Antenne Kärnten - Partymix
+udp://@239.0.147.114:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,Klassik Radio
 udp://@239.0.146.1:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,N-JOY
@@ -440,23 +466,19 @@ udp://@239.0.146.7:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,SWR4 Baden-Württemberg
 udp://@239.0.146.8:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,sunshine live
-udp://@239.0.146.10:8208
+udp://@239.0.146.14:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,Bayern 1 - Oberbayern
 udp://@239.0.146.17:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,Bayern 2
 udp://@239.0.146.12:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,Bayern 3
 udp://@239.0.146.13:8208
-#EXTINF:-1 group-title="Deutschland" radio=true,B5 aktuell
-udp://@239.0.146.4:8208
-#EXTINF:-1 group-title="Deutschland" radio=true,Deutschlandradio Kultur
+#EXTINF:-1 group-title="Deutschland" radio=true,Deutschlandfunk Kultur
 udp://@239.0.146.15:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,Deutschlandfunk
 udp://@239.0.146.16:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,radioeins
 udp://@239.0.146.3:8208
-#EXTINF:-1 group-title="Deutschland" radio=true,Fritz
-udp://@239.0.146.18:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,NDR 2
 udp://@239.0.146.19:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,NDR Info
@@ -477,88 +499,66 @@ udp://@239.0.146.30:8208
 udp://@239.0.146.32:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,ROCK ANTENNE
 udp://@239.0.146.34:8208
-#EXTINF:-1 group-title="Deutschland" radio=true,104.6 RTL
-udp://@239.0.146.36:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,Hit Radio FFH
 udp://@239.0.146.38:8208
+#EXTINF:-1 group-title="Deutschland" radio=true,Antenne Niedersachsen
+udp://@239.0.146.11:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,NDR 1 Niedersachsen
 udp://@239.0.146.41:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,radio ffn
 udp://@239.0.146.42:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,RTL - Deutschlands Hit-Radio
-udp://@239.0.146.108:8208
+udp://@239.0.146.28:8208
+#EXTINF:-1 group-title="Deutschland" radio=true,R.SA
+udp://@239.0.146.23:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,89.0 RTL
 udp://@239.0.146.46:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,radio SAW
-udp://@239.0.146.47:8208
-#EXTINF:-1 group-title="Deutschland" radio=true,Antenne Thüringen
-udp://@239.0.146.49:8208
-#EXTINF:-1 group-title="Deutschland" radio=true,bigFM
-udp://@239.0.146.5:8208
+udp://@239.0.146.36:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,SWR1 Rheinland-Pfalz
 udp://@239.0.146.67:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,MDR KULTUR
 udp://@239.0.146.68:8208
-#EXTINF:-1 group-title="Deutschland" radio=true,Ostseewelle HIT-RADIO Mecklenburg-Vorpommern
-udp://@239.0.146.76:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,BR-KLASSIK
 udp://@239.0.146.84:8208
-#EXTINF:-1 group-title="Deutschland" radio=true,Radio Hamburg
-udp://@239.0.146.86:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,WDR 3
 udp://@239.0.146.90:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,WDR 4
 udp://@239.0.146.93:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,TechnoBase.FM
 udp://@239.0.146.95:8208
-#EXTINF:-1 group-title="Deutschland" radio=true,MDR 1 RADIO SACHSEN
-udp://@239.0.146.33:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,MDR SACHSEN-ANHALT
-udp://@239.0.146.28:8208
-#EXTINF:-1 group-title="Deutschland" radio=true,hr3
-udp://@239.0.146.112:8208
+udp://@239.0.146.50:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,Bremen Eins
-udp://@239.0.146.113:8208
-#EXTINF:-1 group-title="Deutschland" radio=true,Nordwestradio
-udp://@239.0.146.114:8208
+udp://@239.0.146.43:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,SWR2
 udp://@239.0.146.123:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,Schlagerparadies
 udp://@239.0.146.125:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,hr1
-udp://@239.0.146.126:8208
+udp://@239.0.146.98:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,hr2-kultur
 udp://@239.0.146.127:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,1LIVE - diggi
-udp://@239.0.146.131:8208
+udp://@239.0.146.45:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,top100station
 udp://@239.0.146.135:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,Antenne Bayern - Oldies but Goldies
 udp://@239.0.146.137:8208
-#EXTINF:-1 group-title="Deutschland" radio=true,Antenne Bayern - Chillout
-udp://@239.0.146.138:8208
-#EXTINF:-1 group-title="Deutschland" radio=true,Antenne Bayern - Top 40
-udp://@239.0.146.40:8208
-#EXTINF:-1 group-title="Deutschland" radio=true,Radio Erft
-udp://@239.0.146.61:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,Radio Paloma
 udp://@239.0.147.6:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,Ballermann Radio
 udp://@239.0.147.10:8208
-#EXTINF:-1 group-title="Deutschland" radio=true,Antenne Bayern - 80er Kulthits
-udp://@239.0.147.26:8208
-#EXTINF:-1 group-title="Deutschland" radio=true,ROCK ANTENNE - Classic Perlen
-udp://@239.0.146.45:8208
-#EXTINF:-1 group-title="Deutschland" radio=true,DRadio Wissen
-udp://@239.0.146.75:8208
+#EXTINF:-1 group-title="Deutschland" radio=true,RADIO BOB!
+udp://@239.0.146.113:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,HITRADIO RT1 - rt1 - in the mix
-udp://@239.0.147.15:8208
+udp://@239.0.146.24:8208
 #EXTINF:-1 group-title="Deutschland" radio=true,Absolut Relax
-udp://@239.0.146.87:8208
-#EXTINF:-1 group-title="Deutschland" radio=true,JAM FM   - NEW MUSIC RADIO
-udp://@239.0.147.71:8208
+udp://@239.0.146.103:8208
+#EXTINF:-1 group-title="Schweiz" radio=true,Radio Eviva
+udp://@239.0.146.47:8208
 #EXTINF:-1 group-title="Schweiz" radio=true,Radio Swiss Pop
-udp://@239.0.146.53:8208
+udp://@239.0.146.5:8208
 #EXTINF:-1 group-title="Schweiz" radio=true,Radio Swiss Jazz
 udp://@239.0.146.55:8208
 #EXTINF:-1 group-title="Schweiz" radio=true,Radio Swiss Classic
@@ -569,59 +569,59 @@ udp://@239.0.146.57:8208
 udp://@239.0.146.58:8208
 #EXTINF:-1 group-title="Schweiz" radio=true,SRF 3
 udp://@239.0.146.59:8208
-#EXTINF:-1 group-title="Großbritannien" radio=true,BBC Radio 3
-udp://@239.0.146.11:8208
-#EXTINF:-1 group-title="Großbritannien" radio=true,BBC Radio 4
-udp://@239.0.146.14:8208
-#EXTINF:-1 group-title="Spanien" radio=true,Ibiza Global Radio
-udp://@239.0.146.43:8208
-#EXTINF:-1 group-title="Spanien" radio=true,Costa Del Mar Chillout
-udp://@239.0.147.109:8208
-#EXTINF:-1 group-title="Italien" radio=true,Rai Südtirol
-udp://@239.0.146.35:8208
-#EXTINF:-1 group-title="Polen" radio=true,Radio Bercik Silesia
-udp://@239.0.146.103:8208
-#EXTINF:-1 group-title="Lettland" radio=true,Schlager Time
-udp://@239.0.146.44:8208
-#EXTINF:-1 group-title="Kroatien" radio=true,Otvoreni Radio
+#EXTINF:-1 group-title="Schweiz" radio=true,SRF Musikwelle
 udp://@239.0.146.9:8208
-#EXTINF:-1 group-title="Kroatien" radio=true,Radio Koprivnica
-udp://@239.0.146.24:8208
+#EXTINF:-1 group-title="Schweiz" radio=true,lounge-radio.com
+udp://@239.0.146.10:8208
+#EXTINF:-1 group-title="Schweiz" radio=true,1.FM - Blues Radio
+udp://@239.0.146.60:8208
+#EXTINF:-1 group-title="Großbritannien" radio=true,BBC World Service
+udp://@239.0.146.33:8208
+#EXTINF:-1 group-title="Großbritannien" radio=true,BBC Radio 3
+udp://@239.0.146.40:8208
+#EXTINF:-1 group-title="Großbritannien" radio=true,BBC Radio 4
+udp://@239.0.146.44:8208
+#EXTINF:-1 group-title="Frankreich" radio=true,Cinemix
+udp://@239.0.146.69:8208
+#EXTINF:-1 group-title="Frankreich" radio=true,Radio Ice Age
+udp://@239.0.147.48:8208
+#EXTINF:-1 group-title="Spanien" radio=true,Das Inselradio Mallorca
+udp://@239.0.146.4:8208
+#EXTINF:-1 group-title="Spanien" radio=true,Ibiza Global Radio
+udp://@239.0.146.52:8208
+#EXTINF:-1 group-title="Lettland" radio=true,Schlager Time
+udp://@239.0.146.53:8208
+#EXTINF:-1 group-title="Kroatien" radio=true,HRT-HR 1
+udp://@239.0.146.48:8208
 #EXTINF:-1 group-title="Kroatien" radio=true,Radio Banovina
 udp://@239.0.146.130:8208
-#EXTINF:-1 group-title="Kroatien" radio=true,Radio Makarska Rivijera
-udp://@239.0.146.82:8208
-#EXTINF:-1 group-title="Kroatien" radio=true,Radio Megaton
-udp://@239.0.146.105:8208
+#EXTINF:-1 group-title="Kroatien" radio=true,Radio Kaj
+udp://@239.0.146.51:8208
+#EXTINF:-1 group-title="Kroatien" radio=true,Radio Max 99.3
+udp://@239.0.146.71:8208
 #EXTINF:-1 group-title="Serbien" radio=true,Radio Morava
-udp://@239.0.146.23:8208
+udp://@239.0.146.73:8208
 #EXTINF:-1 group-title="Serbien" radio=true,Radio Beograd 1
 udp://@239.0.146.80:8208
-#EXTINF:-1 group-title="Serbien" radio=true,Radio Beograd 202
-udp://@239.0.146.73:8208
-#EXTINF:-1 group-title="Serbien" radio=true,Antena Radio 91.3
-udp://@239.0.147.37:8208
-#EXTINF:-1 group-title="Serbien" radio=true,OK Radio
-udp://@239.0.146.69:8208
+#EXTINF:-1 group-title="Serbien" radio=true,Pink Radio
+udp://@239.0.147.16:8208
+#EXTINF:-1 group-title="Serbien" radio=true,Naxi Radio - Rock
+udp://@239.0.147.18:8208
 #EXTINF:-1 group-title="Türkei" radio=true,KRAL FM
-udp://@239.0.146.52:8208
+udp://@239.0.146.37:8208
+#EXTINF:-1 group-title="Türkei" radio=true,Süper FM
+udp://@239.0.146.49:8208
 #EXTINF:-1 group-title="Türkei" radio=true,Marmara FM
 udp://@239.0.146.72:8208
-#EXTINF:-1 group-title="Türkei" radio=true,Power Türk FM
-udp://@239.0.147.101:8208
 #EXTINF:-1 group-title="Türkei" radio=true,Kral Pop
 udp://@239.0.147.20:8208
-#EXTINF:-1 group-title="Türkei" radio=true,Power FM - Salsa
-udp://@239.0.146.122:8208
 #EXTINF:-1 group-title="Bosnien-Herzegowina" radio=true,BN Radio
-udp://@239.0.146.71:8208
-#EXTINF:-1 group-title="Bosnien-Herzegowina" radio=true,Radio Antena Jelah 88.7
-udp://@239.0.146.96:8208
-#EXTINF:-1 group-title="Bosnien-Herzegowina" radio=true,Radio Džungla
-udp://@239.0.146.120:8208
+udp://@239.0.146.115:8208
+#EXTINF:-1 group-title="Bosnien-Herzegowina" radio=true,Radio Brcko
+udp://@239.0.146.108:8208
+#EXTINF:-1 group-title="Bosnien-Herzegowina" radio=true,Radio Ljubic
+udp://@239.0.146.121:8208
 #EXTINF:-1 group-title="Bosnien-Herzegowina" radio=true,Radio Mir Medugorje
-udp://@239.0.146.100:8208
-#EXTINF:-1 group-title="Bosnien-Herzegowina" radio=true,Radio Velkaton
-udp://@239.0.147.45:8208
+udp://@239.0.147.15:8208
 #EXTINF:-1 group-title="Ukraine" radio=true,Lounge FM 99.4 - Lounge Terrace
-udp://@239.0.147.88:8208
+udp://@239.0.146.142:8208

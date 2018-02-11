@@ -1,5 +1,5 @@
 #EXTM3U
-# A1 TV Basispaket 2016-11-04 13:10
+# A1 TV Basispaket 2018-01-31 13:24
 
 #EXTINF:-1 tvg-num="1" tvg-logo="996",ORFeins
 rtp://@239.2.16.1:8208
@@ -61,28 +61,24 @@ rtp://@239.2.16.80:8208
 rtp://@239.2.16.63:8208
 #EXTINF:-1 tvg-num="120" tvg-logo="929",OKTO
 rtp://@239.2.16.34:8208
-#EXTINF:-1 tvg-num="121" tvg-logo="85",SCHAU TV
-rtp://@239.2.16.83:8208
 #EXTINF:-1 tvg-num="122" tvg-logo="86",RT24
-rtp://@239.2.16.84:8208
+rtp://@239.2.16.121:8208
 #EXTINF:-1 tvg-num="123" tvg-logo="87",P3 TV
-rtp://@239.2.16.85:8208
+rtp://@239.2.16.122:8208
 #EXTINF:-1 tvg-num="124" tvg-logo="88",WNTV
-rtp://@239.2.16.86:8208
+rtp://@239.2.16.123:8208
 #EXTINF:-1 tvg-num="125" tvg-logo="89",LT1
 rtp://@239.2.16.87:8208
 #EXTINF:-1 tvg-num="127" tvg-logo="91",KT1
-rtp://@239.2.16.89:8208
+rtp://@239.2.16.124:8208
 #EXTINF:-1 tvg-num="128" tvg-logo="92",N1
-rtp://@239.2.16.90:8208
+rtp://@239.2.16.125:8208
 #EXTINF:-1 tvg-num="129" tvg-logo="142",BTV Kärnten
-rtp://@239.2.16.112:8208
+rtp://@239.2.16.126:8208
 #EXTINF:-1 tvg-num="130" tvg-logo="143",Tirol TV
 rtp://@239.2.16.109:8208
-#EXTINF:-1 tvg-num="132" tvg-logo="141",HT1
-rtp://@239.2.16.114:8208
 #EXTINF:-1 tvg-num="133" tvg-logo="211",Mühlviertel TV
-rtp://@239.2.16.113:8208
+rtp://@239.2.16.127:8208
 #EXTINF:-1 tvg-num="301" tvg-logo="1098",ORFeins HD
 rtp://@239.2.24.1:8208
 #EXTINF:-1 tvg-num="302" tvg-logo="1097",ORF 2 W HD
@@ -109,3 +105,7 @@ rtp://@239.2.24.45:8208
 rtp://@239.2.24.48:8208
 #EXTINF:-1 tvg-num="373" tvg-logo="1096",ORF 2 V HD
 rtp://@239.2.24.49:8208
+#EXTINF:-1 tvg-num="421" tvg-logo="1186",SCHAU TV HD
+rtp://@239.2.24.37:8208
+#EXTINF:-1 tvg-num="432" tvg-logo="1183",HT1 HD
+rtp://@239.2.24.63:8208
