@@ -32,7 +32,7 @@ Compatibility
 These scripts have been tested with the following versions:
 
 * MythTV version 0.27
-* Tvheadend version 4.0.9 and 4.1
+* Tvheadend version 4.0, 4.1 and 4.2
 * Kodi version 16 and 17
 
 Overview
@@ -219,7 +219,6 @@ It's boring to manually set this for every channel and this is where the script
 
 Configuration: Please adapt the following configuration values within
 `config.rb`:
-  * `A1TV_SOURCE_M3U_FILE_URL`: The source m3u file from A1
   * `CHANNEL_TABLE`: Used for mapping channel names to XMLTV IDs. You will have
      to manually update this when new channels get added to A1 TV.
 
