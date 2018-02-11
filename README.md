@@ -12,7 +12,7 @@ known as XBMC) is a popular Media Center software for Linux, Windows and Android
 [XBian](http://www.xbian.org/) and more. All of them can be run on a
 [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi).
 
-Personally I currently use a Raspberry Pi 3 with Raspbian Jessie, Kodi and Tvheadend to watch and record A1 TV and it works really well. Before that I used a Media Center PC with MythTV, but development of MythTV seems to progress only slowly, so I wouldn't recommend it any more.
+Personally I currently use a Raspberry Pi 3 with Raspbian Stretch, Kodi and Tvheadend to watch and record A1 TV and it works really well. Before that I used a Media Center PC with MythTV, but development of MythTV seems to progress only slowly, so I wouldn't recommend it any more.
 
 Source: https://github.com/Bronkoknorb/a1tv-helpers
 
