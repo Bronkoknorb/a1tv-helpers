@@ -25,6 +25,10 @@ Install ruby and required libraries:
 
     sudo apt-get install ruby ruby-dev
     sudo gem install rest-client
+    
+If the second command fails with *"ERROR: Failed to build gem native extension."*, it should help to install make and build-essentials first:
+
+    sudo apt-get install make build-essentials
 
 Compatibility
 -------------
