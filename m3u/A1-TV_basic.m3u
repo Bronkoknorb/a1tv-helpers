@@ -1,7 +1,9 @@
 #EXTM3U
-# A1 TV Basispaket 2018-01-31 13:24
+# A1 TV Basispaket 2020-10-21 18:35
 
-#EXTINF:-1 tvg-num="1" tvg-logo="996",ORFeins
+#EXTINF:-1 tvg-num="0" tvg-logo="1189",A1 Now HD
+rtp://@239.2.24.70:8208
+#EXTINF:-1 tvg-num="1" tvg-logo="996",ORF 1
 rtp://@239.2.16.1:8208
 #EXTINF:-1 tvg-num="2" tvg-logo="935",ORF 2 W
 rtp://@239.2.16.2:8208
@@ -17,14 +19,16 @@ rtp://@239.2.16.5:8208
 rtp://@239.2.16.7:8208
 #EXTINF:-1 tvg-num="9" tvg-logo="999",RTL Austria
 rtp://@239.2.16.6:8208
-#EXTINF:-1 tvg-num="10" tvg-logo="75",A1 TV Plus Info
-rtp://@239.2.16.10:8208
+#EXTINF:-1 tvg-num="10" tvg-logo="1190",A1 Now
+rtp://@239.2.16.130:8208
 #EXTINF:-1 tvg-num="14" tvg-logo="926",ATV//
 rtp://@239.2.16.91:8208
 #EXTINF:-1 tvg-num="18" tvg-logo="1016",Das Erste
 rtp://@239.2.16.16:8208
 #EXTINF:-1 tvg-num="19" tvg-logo="1063",ZDF
 rtp://@239.2.16.17:8208
+#EXTINF:-1 tvg-num="20" tvg-logo="1403",PULS 24
+rtp://@239.2.16.20:8208
 #EXTINF:-1 tvg-num="22" tvg-logo="1058",ORF III
 rtp://@239.2.16.29:8208
 #EXTINF:-1 tvg-num="23" tvg-logo="1006",3sat
@@ -49,6 +53,10 @@ rtp://@239.2.16.70:8208
 rtp://@239.2.16.71:8208
 #EXTINF:-1 tvg-num="73" tvg-logo="1053",ORF 2 V
 rtp://@239.2.16.72:8208
+#EXTINF:-1 tvg-num="77" tvg-logo="1187",RTLplus Austria
+rtp://@239.2.16.83:8208
+#EXTINF:-1 tvg-num="82" tvg-logo="1410",Der Standard.TV
+rtp://@239.2.16.128:8208
 #EXTINF:-1 tvg-num="92" tvg-logo="1148",Melodie TV
 rtp://@239.2.16.37:8208
 #EXTINF:-1 tvg-num="94" tvg-logo="1049",Bibel TV
@@ -79,7 +87,9 @@ rtp://@239.2.16.126:8208
 rtp://@239.2.16.109:8208
 #EXTINF:-1 tvg-num="133" tvg-logo="211",Mühlviertel TV
 rtp://@239.2.16.127:8208
-#EXTINF:-1 tvg-num="301" tvg-logo="1098",ORFeins HD
+#EXTINF:-1 tvg-num="300" tvg-logo="432",A1 Now HD
+rtp://@239.2.17.204:8208
+#EXTINF:-1 tvg-num="301" tvg-logo="1098",ORF 1 HD
 rtp://@239.2.24.1:8208
 #EXTINF:-1 tvg-num="302" tvg-logo="1097",ORF 2 W HD
 rtp://@239.2.24.2:8208
@@ -89,6 +99,8 @@ rtp://@239.2.24.25:8208
 rtp://@239.2.24.3:8208
 #EXTINF:-1 tvg-num="314" tvg-logo="1068",ATV// HD
 rtp://@239.2.24.41:8208
+#EXTINF:-1 tvg-num="320" tvg-logo="1404",PULS 24 HD
+rtp://@239.2.24.69:8208
 #EXTINF:-1 tvg-num="366" tvg-logo="1089",ORF 2 B HD
 rtp://@239.2.24.44:8208
 #EXTINF:-1 tvg-num="367" tvg-logo="1090",ORF 2 K HD
@@ -105,7 +117,11 @@ rtp://@239.2.24.45:8208
 rtp://@239.2.24.48:8208
 #EXTINF:-1 tvg-num="373" tvg-logo="1096",ORF 2 V HD
 rtp://@239.2.24.49:8208
+#EXTINF:-1 tvg-num="399" tvg-logo="1241",R19 HD
+rtp://@239.2.24.66:8208
 #EXTINF:-1 tvg-num="421" tvg-logo="1186",SCHAU TV HD
 rtp://@239.2.24.37:8208
+#EXTINF:-1 tvg-num="429" tvg-logo="1188",Ländle TV HD
+rtp://@239.2.24.38:8208
 #EXTINF:-1 tvg-num="432" tvg-logo="1183",HT1 HD
 rtp://@239.2.24.63:8208
