@@ -182,7 +182,7 @@ Install XMLTV utilities if you do not already have them:
 
     sudo apt-get install xmltv-util
 
-This should also include the grabber `tv_grab_se_tvzon` which is compatible with
+This should also include the grabber `tv_grab_eu_xmltvse` which is compatible with
 xmltv.se.
 To configure this grabber for use within Tvheadend first log in as the user
 which runs Tvheadend (defaults to *hts* in Ubuntu):
@@ -191,7 +191,7 @@ which runs Tvheadend (defaults to *hts* in Ubuntu):
 
 Then configure the grabber:
 
-    tv_grab_se_tvzon --configure
+    tv_grab_eu_xmltvse --configure
 
 You will be asked some questions: Set the *Root URL for grabbing data* to
 *http://xmltv.xmltv.se/channels-Austria.xml.gz* (for Austrian channels). The
