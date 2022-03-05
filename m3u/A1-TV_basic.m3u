@@ -1,5 +1,5 @@
 #EXTM3U
-# A1 TV Basispaket 2020-10-21 18:35
+# A1 TV Basispaket 2022-03-04 07:36
 
 #EXTINF:-1 tvg-num="0" tvg-logo="1189",A1 Now HD
 rtp://@239.2.24.70:8208
@@ -29,6 +29,8 @@ rtp://@239.2.16.16:8208
 rtp://@239.2.16.17:8208
 #EXTINF:-1 tvg-num="20" tvg-logo="1403",PULS 24
 rtp://@239.2.16.20:8208
+#EXTINF:-1 tvg-num="21" tvg-logo="1432",OE24Plus
+rtp://@239.2.16.59:8208
 #EXTINF:-1 tvg-num="22" tvg-logo="1058",ORF III
 rtp://@239.2.16.29:8208
 #EXTINF:-1 tvg-num="23" tvg-logo="1006",3sat
@@ -53,7 +55,7 @@ rtp://@239.2.16.70:8208
 rtp://@239.2.16.71:8208
 #EXTINF:-1 tvg-num="73" tvg-logo="1053",ORF 2 V
 rtp://@239.2.16.72:8208
-#EXTINF:-1 tvg-num="77" tvg-logo="1187",RTLplus Austria
+#EXTINF:-1 tvg-num="77" tvg-logo="1187",RTLup Austria
 rtp://@239.2.16.83:8208
 #EXTINF:-1 tvg-num="82" tvg-logo="1410",Der Standard.TV
 rtp://@239.2.16.128:8208
@@ -65,8 +67,6 @@ rtp://@239.2.16.81:8208
 rtp://@239.2.16.82:8208
 #EXTINF:-1 tvg-num="99" tvg-logo="890",Eurosport 1
 rtp://@239.2.16.80:8208
-#EXTINF:-1 tvg-num="105" tvg-logo="726",RTS Sat
-rtp://@239.2.16.63:8208
 #EXTINF:-1 tvg-num="120" tvg-logo="929",OKTO
 rtp://@239.2.16.34:8208
 #EXTINF:-1 tvg-num="122" tvg-logo="86",RT24
@@ -101,6 +101,8 @@ rtp://@239.2.24.3:8208
 rtp://@239.2.24.41:8208
 #EXTINF:-1 tvg-num="320" tvg-logo="1404",PULS 24 HD
 rtp://@239.2.24.69:8208
+#EXTINF:-1 tvg-num="321" tvg-logo="1433",OE24Plus HD
+rtp://@239.2.24.95:8208
 #EXTINF:-1 tvg-num="366" tvg-logo="1089",ORF 2 B HD
 rtp://@239.2.24.44:8208
 #EXTINF:-1 tvg-num="367" tvg-logo="1090",ORF 2 K HD
@@ -117,7 +119,9 @@ rtp://@239.2.24.45:8208
 rtp://@239.2.24.48:8208
 #EXTINF:-1 tvg-num="373" tvg-logo="1096",ORF 2 V HD
 rtp://@239.2.24.49:8208
-#EXTINF:-1 tvg-num="399" tvg-logo="1241",R19 HD
+#EXTINF:-1 tvg-num="382" tvg-logo="1411",Der Standard.TV HD
+rtp://@239.2.24.90:8208
+#EXTINF:-1 tvg-num="399" tvg-logo="1241",K19 HD
 rtp://@239.2.24.66:8208
 #EXTINF:-1 tvg-num="421" tvg-logo="1186",SCHAU TV HD
 rtp://@239.2.24.37:8208
