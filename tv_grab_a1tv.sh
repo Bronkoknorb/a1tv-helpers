@@ -40,7 +40,7 @@ done
 
 if [ "$dflag" ]
 then
-   printf "A1"
+   printf "A1 TV"
 fi
 if [ "$vflag" ]
 then
