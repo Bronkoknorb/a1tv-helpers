@@ -13,7 +13,7 @@ channum = nil
 name = nil
 url = nil
 
-open(A1TV_SOURCE_M3U_FILE_URL) {|f|
+URI.open(A1TV_SOURCE_M3U_FILE_URL) {|f|
   f.each_line { |line|
 
     if /^#EXTINF:.*tvg-num="([^"]*)".*,(.*)/ =~ line

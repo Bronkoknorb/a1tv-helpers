@@ -4,7 +4,7 @@ require 'open-uri'
 
 require_relative 'config.rb'
 
-open(A1TV_SOURCE_M3U_FILE_URL) {|f|
+URI.open(A1TV_SOURCE_M3U_FILE_URL) {|f|
   f.each_line { |line|
     # mythtv is not very tolerant with it's m3u files, it doesn't like empty lines
     next if line.strip.empty?
