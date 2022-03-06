@@ -2,7 +2,7 @@ a1tv-helpers
 ============
 
 This is a collection of scripts for importing channels of Austrian IPTV
-[A1 TV](https://www.a1.net/tv/s/tv-uebersicht) into [MythTV](https://www.mythtv.org/) and
+[A1 TV](https://www.a1.net/tv/s/tv-uebersicht) (a.k.a. A1 Xplore TV) into [MythTV](https://www.mythtv.org/) and
 [Tvheadend](http://tvheadend.org/).
 
 As Tvheadend can be used as a [PVR backend for Kodi](http://kodi.wiki/view/Tvheadend_PVR), these scripts enable to watch and record A1 TV within Kodi. [Kodi](http://kodi.tv/) (formerly
@@ -12,7 +12,7 @@ known as XBMC) is a popular Media Center software for Linux, Windows and Android
 [XBian](http://www.xbian.org/) and more. All of them can be run on a
 [Raspberry Pi](https://en.wikipedia.org/wiki/Raspberry_Pi).
 
-Personally I currently use a Raspberry Pi 3 with Raspbian Stretch, Kodi and Tvheadend to watch and record A1 TV and it works really well. Before that I used a Media Center PC with MythTV, but development of MythTV seems to progress only slowly, so I wouldn't recommend it any more.
+Personally I currently use a Raspberry Pi 4 with Raspbian Stretch, Kodi and Tvheadend to watch and record A1 TV and it works really well. Before that I used a Media Center PC with MythTV, but development of MythTV seems to progress only slowly, so I wouldn't recommend it any more.
 
 Source: https://github.com/Bronkoknorb/a1tv-helpers
 
@@ -35,9 +35,9 @@ Compatibility
 
 These scripts have been tested with the following versions:
 
-* MythTV version 0.27
 * Tvheadend version 4.0, 4.1 and 4.2
 * Kodi version 16 and 17
+* MythTV version 0.27
 
 Overview
 --------
@@ -178,6 +178,9 @@ You will first have to correctly set up XMLTV grabbing within Tvheadend.
 Currently the free data supplied by xmltv.se works quite well with A1 TV. Most
 of Austrian channels are available.
 
+Update: Unfortunately xmltv.se is no longer freely available. An alternative source
+is described in the next section.
+
 Install XMLTV utilities if you do not already have them:
 
     sudo apt-get install xmltv-util
@@ -235,6 +238,34 @@ with an EPG source. Open *Configuration -> Channel / EPG -> Channels* to verify
 that. The next time the grabber is run by Tvheadend the EPG data should get
 populated. (Note: Of course you can again force a run of the grabber with
 the trick described above.) :-)
+
+tv_grab_a1tv.sh
+---------------
+
+Luckily a member of the A1 Community provides EPG (electronic program guide) in XMLTV format data at https://a1.epg.wb1.xyz/
+
+This simple script downloads the data and can be used directly as a XMLTV grabber by Tvheadend.
+
+Install XMLTV utilities if you do not already have them:
+
+    sudo apt-get install xmltv-util
+
+Tvheadend uses the program `tv_find_grabbers` to find available grabbers.
+For this tool to find our script, it needs to be copied (or symlinked) to /usr/bin/tv_grab_a1tv:
+
+    sudo ln -s "$(pwd)/tv_grab_a1tv.sh" /usr/bin/tv_grab_a1tv
+
+Next, go to the Web UI and open *Configuration -> Channel / EPG -> EPG Grabber*:
+Under *Internal Grabber* select *XMLTV: A1 TV*, activate it, and save the
+configuration.
+Click "Re-run internal EPG grabbers" to run the grabber. Check the log at the bottom of the page.
+
+If everything worked out fine, you should then be able to associate XMLTV IDs
+with the channels. Go to *Configuration -> Channel / EPG -> Channels* select one
+of the channels, click *Edit* and choose one of the available sources in the
+*EPG source* drop down menu.
+
+Then run the grabber again, and it should download the EPG data and associate it with the channels.
 
 
 Questions / Contributions
