@@ -242,7 +242,7 @@ the trick described above.) :-)
 tv_grab_a1tv.sh
 ---------------
 
-Luckily a member of the A1 Community provides EPG (electronic program guide) in XMLTV format data at https://a1.epg.wb1.xyz/
+Luckily [a member of the A1 Community](https://www.a1community.net/fernsehen-von-a1-a1-xplore-tv-451/epg-fuer-kodi-244331) provides EPG (electronic program guide) in XMLTV format data at https://a1.epg.wb1.xyz/
 
 This simple script downloads the data and can be used directly as a XMLTV grabber by Tvheadend.
 
