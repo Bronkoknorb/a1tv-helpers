@@ -1,74 +1,40 @@
 #EXTM3U
-# A1 TV 2024-09-22 08:00
+# A1 TV 2025-06-26 22:00
 
-#EXTINF:-1 tvg-num="0" tvg-logo="1456",Xplore TV Info HD
-rtp://@239.2.24.28:8208
 #EXTINF:-1 tvg-num="1" tvg-logo="996",ORF 1
 rtp://@239.2.16.1:8208
 #EXTINF:-1 tvg-num="1" tvg-logo="1098",ORF 1 HD
 rtp://@239.2.24.1:8208
 #EXTINF:-1 tvg-num="2" tvg-logo="935",ORF 2 W
 rtp://@239.2.16.2:8208
-#EXTINF:-1 tvg-num="2" tvg-logo="1097",ORF 2 W HD
-rtp://@239.2.24.2:8208
 #EXTINF:-1 tvg-num="4" tvg-logo="1052",PULS4
 rtp://@239.2.16.4:8208
-#EXTINF:-1 tvg-num="4" tvg-logo="1105",PULS4 HD
-rtp://@239.3.56.8:8208
 #EXTINF:-1 tvg-num="5" tvg-logo="1113",ServusTV HD
 rtp://@239.2.24.3:8208
-#EXTINF:-1 tvg-num="6" tvg-logo="1112",Sat.1 Austria HD
-rtp://@239.3.56.5:8208
 #EXTINF:-1 tvg-num="7" tvg-logo="936",ProSieben Austria
 rtp://@239.2.16.7:8208
-#EXTINF:-1 tvg-num="7" tvg-logo="1104",ProSieben Austria HD
-rtp://@239.3.56.6:8208
 #EXTINF:-1 tvg-num="9" tvg-logo="999",RTL Austria
 rtp://@239.2.16.6:8208
-#EXTINF:-1 tvg-num="9" tvg-logo="1110",RTL Austria HD
-rtp://@239.3.56.1:8208
-#EXTINF:-1 tvg-num="10" tvg-logo="1401",Xplore TV Info HD
-rtp://@239.2.24.28:8208
 #EXTINF:-1 tvg-num="11" tvg-logo="1057",VOX Austria
 rtp://@239.2.16.8:8208
-#EXTINF:-1 tvg-num="11" tvg-logo="1125",VOX Austria HD
-rtp://@239.3.56.2:8208
-#EXTINF:-1 tvg-num="12" tvg-logo="1114",sixx Austria HD
-rtp://@239.3.56.11:8208
 #EXTINF:-1 tvg-num="12" tvg-logo="942",sixx Austria
 rtp://@239.2.16.9:8208
 #EXTINF:-1 tvg-num="13" tvg-logo="1056",RTLZWEI Austria
 rtp://@239.2.16.12:8208
-#EXTINF:-1 tvg-num="13" tvg-logo="1108",RTLZWEI Austria HD
-rtp://@239.3.56.4:8208
 #EXTINF:-1 tvg-num="14" tvg-logo="925",ATV
 rtp://@239.2.16.3:8208
-#EXTINF:-1 tvg-num="14" tvg-logo="1067",ATV HD
-rtp://@239.2.24.25:8208
 #EXTINF:-1 tvg-num="15" tvg-logo="956",Sat.1 Gold
 rtp://@239.2.16.27:8208
-#EXTINF:-1 tvg-num="15" tvg-logo="1111",Sat.1 Gold HD
-rtp://@239.3.56.15:8208
 #EXTINF:-1 tvg-num="16" tvg-logo="955",ProSieben Maxx
 rtp://@239.2.16.28:8208
-#EXTINF:-1 tvg-num="16" tvg-logo="1103",ProSieben Maxx HD
-rtp://@239.3.56.16:8208
 #EXTINF:-1 tvg-num="17" tvg-logo="1059",NITRO Austria
 rtp://@239.2.16.33:8208
-#EXTINF:-1 tvg-num="17" tvg-logo="1109",NITRO Austria HD
-rtp://@239.3.56.17:8208
 #EXTINF:-1 tvg-num="18" tvg-logo="1016",Das Erste
 rtp://@239.2.16.16:8208
-#EXTINF:-1 tvg-num="18" tvg-logo="1074",Das Erste HD
-rtp://@239.2.24.4:8208
-#EXTINF:-1 tvg-num="19" tvg-logo="1128",ZDF HD
-rtp://@239.2.24.5:8208
 #EXTINF:-1 tvg-num="19" tvg-logo="1063",ZDF
 rtp://@239.2.16.17:8208
 #EXTINF:-1 tvg-num="20" tvg-logo="1403",PULS 24
 rtp://@239.2.16.20:8208
-#EXTINF:-1 tvg-num="20" tvg-logo="1404",PULS 24 HD
-rtp://@239.2.24.69:8208
 #EXTINF:-1 tvg-num="22" tvg-logo="1058",ORF III
 rtp://@239.2.16.29:8208
 #EXTINF:-1 tvg-num="22" tvg-logo="1099",ORF III HD
@@ -81,34 +47,22 @@ rtp://@239.2.24.7:8208
 rtp://@239.2.16.22:8208
 #EXTINF:-1 tvg-num="24" tvg-logo="1066",arte HD
 rtp://@239.2.24.6:8208
-#EXTINF:-1 tvg-num="27" tvg-logo="1134",Sport1 HD
-rtp://@239.3.56.3:8208
 #EXTINF:-1 tvg-num="27" tvg-logo="1014",Sport1
 rtp://@239.2.16.26:8208
 #EXTINF:-1 tvg-num="28" tvg-logo="926",ATV//
 rtp://@239.2.16.91:8208
-#EXTINF:-1 tvg-num="28" tvg-logo="1068",ATV// HD
-rtp://@239.2.24.41:8208
-#EXTINF:-1 tvg-num="29" tvg-logo="888",Eurosport 1 HD
-rtp://@239.3.56.36:8208
 #EXTINF:-1 tvg-num="29" tvg-logo="890",Eurosport 1
 rtp://@239.2.16.80:8208
 #EXTINF:-1 tvg-num="30" tvg-logo="928",kabel eins Austria
 rtp://@239.2.16.13:8208
-#EXTINF:-1 tvg-num="30" tvg-logo="1081",kabel eins Austria HD
-rtp://@239.3.56.7:8208
 #EXTINF:-1 tvg-num="32" tvg-logo="993",RTL SUPER
 rtp://@239.2.16.23:8208
-#EXTINF:-1 tvg-num="32" tvg-logo="1119",RTL SUPER HD
-rtp://@239.3.56.18:8208
 #EXTINF:-1 tvg-num="33" tvg-logo="1010",KIKA
 rtp://@239.2.16.24:8208
 #EXTINF:-1 tvg-num="33" tvg-logo="1082",KiKA HD
 rtp://@239.2.24.16:8208
-#EXTINF:-1 tvg-num="34" tvg-logo="943",nick
+#EXTINF:-1 tvg-num="34" tvg-logo="943",nickelodeon
 rtp://@239.2.16.25:8208
-#EXTINF:-1 tvg-num="34" tvg-logo="1088",nick HD
-rtp://@239.3.56.9:8208
 #EXTINF:-1 tvg-num="35" tvg-logo="1035",Disney Channel
 rtp://@239.2.16.14:8208
 #EXTINF:-1 tvg-num="36" tvg-logo="1060",RiC
@@ -117,8 +71,6 @@ rtp://@239.2.16.117:8208
 rtp://@239.2.16.92:8208
 #EXTINF:-1 tvg-num="38" tvg-logo="1004",ntv
 rtp://@239.2.16.52:8208
-#EXTINF:-1 tvg-num="38" tvg-logo="1085",ntv HD
-rtp://@239.3.56.19:8208
 #EXTINF:-1 tvg-num="39" tvg-logo="981",CNN international
 rtp://@239.2.16.55:8208
 #EXTINF:-1 tvg-num="40" tvg-logo="1015",zdf_neo
@@ -129,12 +81,8 @@ rtp://@239.2.24.14:8208
 rtp://@239.2.16.43:8208
 #EXTINF:-1 tvg-num="41" tvg-logo="1129",ZDFinfo HD
 rtp://@239.2.24.13:8208
-#EXTINF:-1 tvg-num="42" tvg-logo="1086",Welt HD
-rtp://@239.3.56.10:8208
 #EXTINF:-1 tvg-num="43" tvg-logo="1019",phoenix
 rtp://@239.2.16.39:8208
-#EXTINF:-1 tvg-num="43" tvg-logo="1101",phoenix HD
-rtp://@239.2.24.11:8208
 #EXTINF:-1 tvg-num="44" tvg-logo="1142",kabel eins Doku Austria
 rtp://@239.2.16.19:8208
 #EXTINF:-1 tvg-num="45" tvg-logo="1046",tagesschau24
@@ -149,8 +97,6 @@ rtp://@239.2.24.29:8208
 rtp://@239.2.16.38:8208
 #EXTINF:-1 tvg-num="50" tvg-logo="944",TLC
 rtp://@239.2.16.110:8208
-#EXTINF:-1 tvg-num="50" tvg-logo="1123",TLC HD
-rtp://@239.3.56.20:8208
 #EXTINF:-1 tvg-num="51" tvg-logo="1451",RTLup Austria HD
 rtp://@239.3.56.129:8208
 #EXTINF:-1 tvg-num="51" tvg-logo="1187",RTLup Austria
@@ -159,10 +105,6 @@ rtp://@239.2.16.83:8208
 rtp://@239.2.16.15:8208
 #EXTINF:-1 tvg-num="54" tvg-logo="1034",Deluxe Music
 rtp://@239.2.16.108:8208
-#EXTINF:-1 tvg-num="59" tvg-logo="1001",Euronews
-rtp://@239.2.16.53:8208
-#EXTINF:-1 tvg-num="59" tvg-logo="1450",Euronews HD
-rtp://@239.2.24.30:8208
 #EXTINF:-1 tvg-num="60" tvg-logo="983",Bloomberg
 rtp://@239.2.16.54:8208
 #EXTINF:-1 tvg-num="61" tvg-logo="989",Al Jazeera
@@ -203,32 +145,20 @@ rtp://@239.2.16.71:8208
 rtp://@239.2.16.72:8208
 #EXTINF:-1 tvg-num="73" tvg-logo="1096",ORF 2 V HD
 rtp://@239.2.24.49:8208
-#EXTINF:-1 tvg-num="74" tvg-logo="1151",ORF 2 Europe
-rtp://@239.2.16.116:8208
 #EXTINF:-1 tvg-num="75" tvg-logo="613",Ö3 Visual Radio
 rtp://@239.2.16.73:8208
 #EXTINF:-1 tvg-num="76" tvg-logo="959",BR
 rtp://@239.2.16.18:8208
-#EXTINF:-1 tvg-num="76" tvg-logo="1070",BR HD
-rtp://@239.2.24.12:8208
 #EXTINF:-1 tvg-num="77" tvg-logo="1030",SWR BW
 rtp://@239.2.16.46:8208
-#EXTINF:-1 tvg-num="77" tvg-logo="1120",SWR BW HD
-rtp://@239.2.24.18:8208
 #EXTINF:-1 tvg-num="78" tvg-logo="1011",mdr
 rtp://@239.2.16.47:8208
 #EXTINF:-1 tvg-num="78" tvg-logo="1084",mdr HD
 rtp://@239.2.24.32:8208
-#EXTINF:-1 tvg-num="79" tvg-logo="1040",NDR
-rtp://@239.2.16.48:8208
 #EXTINF:-1 tvg-num="79" tvg-logo="1087",NDR HD
 rtp://@239.2.24.17:8208
 #EXTINF:-1 tvg-num="80" tvg-logo="1000",WDR
 rtp://@239.2.16.49:8208
-#EXTINF:-1 tvg-num="80" tvg-logo="1126",WDR HD
-rtp://@239.2.24.19:8208
-#EXTINF:-1 tvg-num="81" tvg-logo="1150",hr HD
-rtp://@239.2.24.33:8208
 #EXTINF:-1 tvg-num="81" tvg-logo="1147",hr
 rtp://@239.2.16.50:8208
 #EXTINF:-1 tvg-num="84" tvg-logo="929",OKTO
@@ -239,51 +169,33 @@ rtp://@239.2.16.121:8208
 rtp://@239.2.16.122:8208
 #EXTINF:-1 tvg-num="87" tvg-logo="88",WNTV HD
 rtp://@239.2.16.123:8208
-#EXTINF:-1 tvg-num="106" tvg-logo="903",LAOLA1.tv HD
-rtp://@239.2.24.50:8208
 #EXTINF:-1 tvg-num="129" tvg-logo="1145",Media Shop
 rtp://@239.2.16.94:8208
-#EXTINF:-1 tvg-num="130" tvg-logo="1240",1-2-3.tv
-rtp://@239.2.16.85:8208
 #EXTINF:-1 tvg-num="132" tvg-logo="1049",Bibel TV
 rtp://@239.2.16.81:8208
-#EXTINF:-1 tvg-num="133" tvg-logo="1038",K-TV
-rtp://@239.2.16.82:8208
 #EXTINF:-1 tvg-num="136" tvg-logo="1008",Anixe HD
 rtp://@239.2.24.8:8208
 #EXTINF:-1 tvg-num="137" tvg-logo="1148",Melodie TV
 rtp://@239.2.16.37:8208
-#EXTINF:-1 tvg-num="138" tvg-logo="1245",Folx TV
-rtp://@239.2.16.89:8208
-#EXTINF:-1 tvg-num="139" tvg-logo="995",AstroTV
-rtp://@239.2.16.93:8208
 #EXTINF:-1 tvg-num="212" tvg-logo="1115",AXN White HD
 rtp://@239.3.56.88:82089
-#EXTINF:-1 tvg-num="213" tvg-logo="1037",Kabel eins Classics
-rtp://@239.3.48.7:8208
 #EXTINF:-1 tvg-num="214" tvg-logo="1083",Kinowelt TV HD
 rtp://@239.3.56.73:8208
 #EXTINF:-1 tvg-num="215" tvg-logo="770",13th Street HD
 rtp://@239.3.56.41:82089
-#EXTINF:-1 tvg-num="232" tvg-logo="1042",Sat.1 emotions
-rtp://@239.3.48.8:8208
 #EXTINF:-1 tvg-num="233" tvg-logo="1107",Romance TV HD
 rtp://@239.3.56.72:8208
 #EXTINF:-1 tvg-num="236" tvg-logo="1178",BonGusto HD
 rtp://@239.3.56.82:8208
 #EXTINF:-1 tvg-num="242" tvg-logo="1032",cartoon network
 rtp://@239.3.48.14:8208
-#EXTINF:-1 tvg-num="242" tvg-logo="1071",cartoon network HD
-rtp://@239.3.56.75:8208
-#EXTINF:-1 tvg-num="243" tvg-logo="1138",cartoonito HD
-rtp://@239.3.56.74:8208
 #EXTINF:-1 tvg-num="243" tvg-logo="1044",cartoonito
 rtp://@239.3.48.94:8209
 #EXTINF:-1 tvg-num="256" tvg-logo="1102",Bergblick HD
 rtp://@239.3.56.79:8208
 #EXTINF:-1 tvg-num="257" tvg-logo="1028",DocuBox HD
 rtp://@239.3.56.89:8208
-#EXTINF:-1 tvg-num="265" tvg-logo="767",eSports1 HD
+#EXTINF:-1 tvg-num="265" tvg-logo="767",eSportsONE
 rtp://@239.3.56.39:8208
 #EXTINF:-1 tvg-num="267" tvg-logo="1069",Auto Motor Sport HD
 rtp://@239.3.56.81:8208
@@ -293,50 +205,30 @@ rtp://@239.3.56.91:8208
 rtp://@239.3.56.117:8208
 #EXTINF:-1 tvg-num="301" tvg-logo="1228",A Spor HD
 rtp://@239.3.56.116:8208
-#EXTINF:-1 tvg-num="302" tvg-logo="1213",TRT Belgesel HD
-rtp://@239.3.56.118:8208
 #EXTINF:-1 tvg-num="303" tvg-logo="1211",TRT Müzik HD
 rtp://@239.3.56.122:8208
 #EXTINF:-1 tvg-num="304" tvg-logo="1209",TRT Spor HD
 rtp://@239.3.56.119:8208
 #EXTINF:-1 tvg-num="305" tvg-logo="1207",TRT Cocuk HD
 rtp://@239.3.56.121:8208
-#EXTINF:-1 tvg-num="306" tvg-logo="1195",ATV Avrupa
-rtp://@239.3.48.104:8208
-#EXTINF:-1 tvg-num="307" tvg-logo="1409",Haber Türk
-rtp://@239.3.48.108:8208
-#EXTINF:-1 tvg-num="309" tvg-logo="1197",Euro Star
-rtp://@239.3.48.111:8208
 #EXTINF:-1 tvg-num="312" tvg-logo="1202",TRT Türk HD
 rtp://@239.3.56.120:8208
-#EXTINF:-1 tvg-num="400" tvg-logo="1215",Pink Extra
-rtp://@239.3.48.113:8208
-#EXTINF:-1 tvg-num="401" tvg-logo="1216",Pink Film 
-rtp://@239.3.48.114:8208
-#EXTINF:-1 tvg-num="402" tvg-logo="1217",Pink Folk
-rtp://@239.3.48.117:8208
 #EXTINF:-1 tvg-num="403" tvg-logo="1218",Pink Kids
 rtp://@239.3.48.119:8208
 #EXTINF:-1 tvg-num="404" tvg-logo="1219",Pink Music
 rtp://@239.3.48.115:8208
 #EXTINF:-1 tvg-num="405" tvg-logo="1203",Pink Plus
 rtp://@239.3.48.116:8208
-#EXTINF:-1 tvg-num="406" tvg-logo="1220",Pink Reality
-rtp://@239.3.48.118:8208
 #EXTINF:-1 tvg-num="450" tvg-logo="985",Rai Uno
 rtp://@239.3.48.123:8208
 #EXTINF:-1 tvg-num="454" tvg-logo="1269",Rai Scuola
 rtp://@239.3.48.128:8208
-#EXTINF:-1 tvg-num="455" tvg-logo="1267",Rai News 24
-rtp://@239.3.48.126:8208
 #EXTINF:-1 tvg-num="801" tvg-logo="1382",Sky Krimi HD
 rtp://@239.3.56.87:8208
 #EXTINF:-1 tvg-num="803" tvg-logo="491",Warner TV Serie HD
 rtp://@239.3.56.46:82089
 #EXTINF:-1 tvg-num="805" tvg-logo="487",13th Street HD
 rtp://@239.3.56.41:8208
-#EXTINF:-1 tvg-num="807" tvg-logo="498",Heimatkanal
-rtp://@239.3.48.85:8208
 #EXTINF:-1 tvg-num="808" tvg-logo="1263",Beate-Uhse.TV HD
 rtp://@239.3.56.21:8208
 #EXTINF:-1 tvg-num="809" tvg-logo="520",Sky Atlantic HD
@@ -347,18 +239,12 @@ rtp://@239.3.56.58:82089
 rtp://@239.3.56.70:8208
 #EXTINF:-1 tvg-num="816" tvg-logo="1159",Sky One HD
 rtp://@239.3.56.42:8208
-#EXTINF:-1 tvg-num="817" tvg-logo="1408",nicktoons
-rtp://@239.3.48.81:8208
 #EXTINF:-1 tvg-num="818" tvg-logo="451",cartoonito
 rtp://@239.3.48.94.8208
-#EXTINF:-1 tvg-num="820" tvg-logo="1472",Romance TV HD
-rtp://@239.3.57.72:8208
 #EXTINF:-1 tvg-num="821" tvg-logo="1465",Sky Showcase HD
 rtp://@239.3.56.130:8208
 #EXTINF:-1 tvg-num="824" tvg-logo="490",History HD
 rtp://@239.3.56.55:8208
-#EXTINF:-1 tvg-num="825" tvg-logo="1407",nick junior
-rtp://@239.3.48.16:82089
 #EXTINF:-1 tvg-num="826" tvg-logo="1412",cartoon network
 rtp://@239.3.48.14:82089
 #EXTINF:-1 tvg-num="828" tvg-logo="1424",Sky Crime HD
@@ -411,8 +297,6 @@ rtp://@239.3.56.68:8208
 rtp://@239.3.56.69:8208
 #EXTINF:-1 tvg-num="900" tvg-logo="473",Sky Cinema Premiere HD
 rtp://@239.3.56.51:8208
-#EXTINF:-1 tvg-num="907" tvg-logo="1467",Sky Cinema Classics HD
-rtp://@239.3.56.131:8208
 #EXTINF:-1 tvg-num="908" tvg-logo="506",Sky Cinema Highlights HD
 rtp://@239.3.56.47:8208
 #EXTINF:-1 tvg-num="909" tvg-logo="1141",Sky Cinema Family HD
@@ -439,5 +323,3 @@ rtp://@239.3.57.37:8208
 rtp://@239.3.57.133:8208
 #EXTINF:-1 tvg-num="959" tvg-logo="1471",Sky Bundesliga 9 HD
 rtp://@239.3.57.134:8208
-#EXTINF:-1 tvg-num="960" tvg-logo="1474",Sky Bundesliga 10 HD
-rtp://@239.3.57.135:8208
